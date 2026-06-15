@@ -341,6 +341,15 @@
     "authorProfile": "https://unsplash.com/@bernardhermant",
     "downloadedAt": "2026-06-15T14:41:14.495Z"
   },
+  "260710": {
+    "fileName": "2026/07/daily_260710_pixabay-2793654.webp",
+    "source": "pixabay",
+    "imageId": "2793654",
+    "originalUrl": "https://pixabay.com/photos/fish-underwater-water-sea-ocean-2793654/",
+    "authorName": "jbwilder75",
+    "authorProfile": "https://pixabay.com/users/jbwilder75-4756122/",
+    "downloadedAt": "2026-06-15T14:58:50.300Z"
+  },
   "260711": {
     "fileName": "2026/07/daily_260711_unsplash-hYyDDXxmUkE.webp",
     "source": "unsplash",
@@ -421,6 +430,15 @@
     "authorName": "Marek Piwnicki",
     "authorProfile": "https://unsplash.com/@marekpiwnicki",
     "downloadedAt": "2026-06-15T14:42:01.276Z"
+  },
+  "260722": {
+    "fileName": "2026/07/daily_260722_pixabay-9868748.webp",
+    "source": "pixabay",
+    "imageId": "9868748",
+    "originalUrl": "https://pixabay.com/photos/mountains-mist-landscape-range-9868748/",
+    "authorName": "jhenning",
+    "authorProfile": "https://pixabay.com/users/jhenning-8658480/",
+    "downloadedAt": "2026-06-15T14:59:15.044Z"
   },
   "260723": {
     "fileName": "2026/07/daily_260723_unsplash-dejzecdfEwE.webp",
