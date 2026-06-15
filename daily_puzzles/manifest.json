@@ -328,7 +328,7 @@
     "source": "unsplash",
     "imageId": "zcDkupAH4wc",
     "originalUrl": "https://unsplash.com/photos/three-empty-clear-bottles-zcDkupAH4wc",
-    "authorName": "Daria Nepriakhina ÃÂ°ÃÂÃÂÃÂºÃÂ°ÃÂÃÂÃÂ¦",
+    "authorName": "Daria Nepriakhina ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¦",
     "authorProfile": "https://unsplash.com/@epicantus",
     "downloadedAt": "2026-06-15T16:03:55.363Z"
   },
@@ -436,7 +436,7 @@
     "source": "unsplash",
     "imageId": "LMPs-U9jgaE",
     "originalUrl": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-desk-LMPs-U9jgaE",
-    "authorName": "Jakub ÃÂÃÂ»erdzicki",
+    "authorName": "Jakub ÃÂÃÂÃÂÃÂ»erdzicki",
     "authorProfile": "https://unsplash.com/@jakubzerdzicki",
     "downloadedAt": "2026-06-15T16:05:20.561Z"
   },
@@ -733,7 +733,7 @@
     "source": "unsplash",
     "imageId": "PWf-Dr2qpOo",
     "originalUrl": "https://unsplash.com/photos/black-textile-PWf-Dr2qpOo",
-    "authorName": "Mikk TÃÂÃÂµnissoo",
+    "authorName": "Mikk TÃÂÃÂÃÂÃÂµnissoo",
     "authorProfile": "https://unsplash.com/@themikk",
     "downloadedAt": "2026-06-15T16:00:55.350Z"
   },
@@ -823,7 +823,7 @@
     "source": "unsplash",
     "imageId": "jHGxoHhN000",
     "originalUrl": "https://unsplash.com/photos/body-of-water-beside-cliff-jHGxoHhN000",
-    "authorName": "Roman BÃÂÃÂ¼rki",
+    "authorName": "Roman BÃÂÃÂÃÂÃÂ¼rki",
     "authorProfile": "https://unsplash.com/@romanleandro",
     "downloadedAt": "2026-06-15T16:02:16.329Z"
   },
@@ -864,13 +864,13 @@
     "downloadedAt": "2026-06-15T16:16:53.760Z"
   },
   "260905": {
-    "fileName": "2026/09/daily_260905_pixabay-1851648.webp",
+    "fileName": "2026/09/daily_260905_pixabay-779827.webp",
     "source": "pixabay",
-    "imageId": "1851648",
-    "originalUrl": "https://pixabay.com/photos/adorable-animal-branch-cute-pet-1851648/",
-    "authorName": "Pexels",
-    "authorProfile": "https://pixabay.com/users/Pexels-2286921/",
-    "downloadedAt": "2026-06-15T16:17:02.287Z"
+    "imageId": "779827",
+    "originalUrl": "https://pixabay.com/photos/autumn-leaves-trees-path-trail-779827/",
+    "authorName": "Hans",
+    "authorProfile": "https://pixabay.com/users/Hans-2/",
+    "downloadedAt": "2026-06-15T16:24:29.240Z"
   },
   "260906": {
     "fileName": "2026/09/daily_260906_pixabay-7533717.webp",
@@ -882,31 +882,31 @@
     "downloadedAt": "2026-06-15T16:17:08.726Z"
   },
   "260907": {
-    "fileName": "2026/09/daily_260907_pixabay-8367079.webp",
+    "fileName": "2026/09/daily_260907_pixabay-10105348.webp",
     "source": "pixabay",
-    "imageId": "8367079",
-    "originalUrl": "https://pixabay.com/photos/squirrel-rodent-animal-mammal-8367079/",
-    "authorName": "JonPauling",
-    "authorProfile": "https://pixabay.com/users/JonPauling-19157087/",
-    "downloadedAt": "2026-06-15T16:17:16.437Z"
+    "imageId": "10105348",
+    "originalUrl": "https://pixabay.com/photos/dragon-fantasy-mythology-colorful-10105348/",
+    "authorName": "Robo-Art",
+    "authorProfile": "https://pixabay.com/users/Robo-Art-54479415/",
+    "downloadedAt": "2026-06-15T16:24:39.434Z"
   },
   "260908": {
-    "fileName": "2026/09/daily_260908_pixabay-446876.webp",
+    "fileName": "2026/09/daily_260908_pixabay-6843881.webp",
     "source": "pixabay",
-    "imageId": "446876",
-    "originalUrl": "https://pixabay.com/photos/koala-bear-marsupial-grey-furry-446876/",
-    "authorName": "sandid",
-    "authorProfile": "https://pixabay.com/users/sandid-356019/",
-    "downloadedAt": "2026-06-15T16:17:23.437Z"
+    "imageId": "6843881",
+    "originalUrl": "https://pixabay.com/photos/lamps-lanterns-candles-6843881/",
+    "authorName": "SoyKhaler",
+    "authorProfile": "https://pixabay.com/users/SoyKhaler-6351521/",
+    "downloadedAt": "2026-06-15T16:24:46.105Z"
   },
   "260909": {
-    "fileName": "2026/09/daily_260909_unsplash-QQ5PENcwras.webp",
-    "source": "unsplash",
-    "imageId": "QQ5PENcwras",
-    "originalUrl": "https://unsplash.com/photos/flock-of-penguin-QQ5PENcwras",
-    "authorName": "Po Tantirittisak",
-    "authorProfile": "https://unsplash.com/@sanditz",
-    "downloadedAt": "2026-06-15T16:14:10.788Z"
+    "fileName": "2026/09/daily_260909_pixabay-7304564.webp",
+    "source": "pixabay",
+    "imageId": "7304564",
+    "originalUrl": "https://pixabay.com/photos/lavender-field-purple-flowering-7304564/",
+    "authorName": "katerinavulcova",
+    "authorProfile": "https://pixabay.com/users/katerinavulcova-7453549/",
+    "downloadedAt": "2026-06-15T16:24:53.909Z"
   },
   "260910": {
     "fileName": "2026/09/daily_260910_pixabay-9534768.webp",
@@ -927,13 +927,13 @@
     "downloadedAt": "2026-06-15T16:14:23.780Z"
   },
   "260912": {
-    "fileName": "2026/09/daily_260912_pixabay-2855905.webp",
+    "fileName": "2026/09/daily_260912_pixabay-5599375.webp",
     "source": "pixabay",
-    "imageId": "2855905",
-    "originalUrl": "https://pixabay.com/photos/lamb-baby-sheep-animal-sitting-2855905/",
-    "authorName": "BeccaH",
-    "authorProfile": "https://pixabay.com/users/BeccaH-613236/",
-    "downloadedAt": "2026-06-15T16:18:35.681Z"
+    "imageId": "5599375",
+    "originalUrl": "https://pixabay.com/photos/aurora-borealis-lake-snow-aurora-5599375/",
+    "authorName": "kamilgrygo",
+    "authorProfile": "https://pixabay.com/users/kamilgrygo-17873345/",
+    "downloadedAt": "2026-06-15T16:25:00.950Z"
   },
   "260913": {
     "fileName": "2026/09/daily_260913_unsplash-i3F-UdMfLlo.webp",
@@ -945,13 +945,13 @@
     "downloadedAt": "2026-06-15T16:14:35.857Z"
   },
   "260914": {
-    "fileName": "2026/09/daily_260914_pixabay-1438378.webp",
+    "fileName": "2026/09/daily_260914_pixabay-1046693.webp",
     "source": "pixabay",
-    "imageId": "1438378",
-    "originalUrl": "https://pixabay.com/photos/otter-otter-baby-otterbaby-nature-1438378/",
-    "authorName": "NoName_13",
-    "authorProfile": "https://pixabay.com/users/NoName_13-2364555/",
-    "downloadedAt": "2026-06-15T16:17:37.554Z"
+    "imageId": "1046693",
+    "originalUrl": "https://pixabay.com/photos/heart-balloon-sky-love-red-balloon-1046693/",
+    "authorName": "Peggy_Marco",
+    "authorProfile": "https://pixabay.com/users/Peggy_Marco-1553824/",
+    "downloadedAt": "2026-06-15T16:25:08.125Z"
   },
   "260915": {
     "fileName": "2026/09/daily_260915_unsplash-HAK9lNyTUzg.webp",
@@ -1035,13 +1035,13 @@
     "downloadedAt": "2026-06-15T16:15:34.022Z"
   },
   "260924": {
-    "fileName": "2026/09/daily_260924_pixabay-1283152.webp",
+    "fileName": "2026/09/daily_260924_pixabay-7609666.webp",
     "source": "pixabay",
-    "imageId": "1283152",
-    "originalUrl": "https://pixabay.com/photos/water-corals-underwater-clear-water-1283152/",
-    "authorName": "Pexels",
-    "authorProfile": "https://pixabay.com/users/Pexels-2286921/",
-    "downloadedAt": "2026-06-15T16:15:39.460Z"
+    "imageId": "7609666",
+    "originalUrl": "https://pixabay.com/photos/otter-eat-black-and-white-animal-7609666/",
+    "authorName": "硝破",
+    "authorProfile": "https://pixabay.com/users/硝破-24259119/",
+    "downloadedAt": "2026-06-15T16:25:15.138Z"
   },
   "260925": {
     "fileName": "2026/09/daily_260925_pixabay-6833167.webp",
