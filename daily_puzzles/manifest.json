@@ -270,13 +270,13 @@
     "downloadedAt": "2026-06-15T06:41:49.833Z"
   },
   "260701": {
-    "fileName": "2026/07/daily_260701_unsplash-r8E-uibCqi0.webp",
-    "source": "unsplash",
-    "imageId": "r8E-uibCqi0",
-    "originalUrl": "https://unsplash.com/photos/two-clownfish-swim-in-dark-water-r8E-uibCqi0",
-    "authorName": "Tyler Schroeder",
-    "authorProfile": "https://unsplash.com/@schroetj",
-    "downloadedAt": "2026-06-15T16:02:55.364Z"
+    "source": "pixabay",
+    "imageId": "7533717",
+    "originalUrl": "https://pixabay.com/photos/cat-pet-animal-domestic-feline-7533717/",
+    "authorName": "yacubee",
+    "authorProfile": "https://pixabay.com/users/yacubee-14626989/",
+    "downloadedAt": "2026-07-08T15:50:14.730Z",
+    "fileName": "2026/07/daily_260701_pixabay-7533717.webp"
   },
   "260702": {
     "source": "pixabay",
