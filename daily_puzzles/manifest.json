@@ -288,13 +288,13 @@
     "downloadedAt": "2026-06-15T16:10:51.098Z"
   },
   "260703": {
-    "fileName": "2026/07/daily_260703_unsplash-S7T4uqzNHQg.webp",
-    "source": "unsplash",
-    "imageId": "S7T4uqzNHQg",
-    "originalUrl": "https://unsplash.com/photos/green-leafed-trees-S7T4uqzNHQg",
-    "authorName": "id23",
-    "authorProfile": "https://unsplash.com/@id23",
-    "downloadedAt": "2026-06-15T16:03:16.629Z"
+    "source": "pixabay",
+    "imageId": "2228277",
+    "originalUrl": "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
+    "authorName": "PIRO4D",
+    "authorProfile": "https://pixabay.com/users/PIRO4D-2707530/",
+    "downloadedAt": "2026-07-08T15:48:58.172Z",
+    "fileName": "2026/07/daily_260703_pixabay-2228277.webp"
   },
   "260704": {
     "source": "pixabay",
