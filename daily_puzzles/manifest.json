@@ -31,5 +31,38 @@
                    "imageHash":  "sha256-d3d0c0d7a1fd0a3ebeaefd97404a08268873234db2b8ad25aa7fbfeaf992545d",
                    "downloadedAt":  "2026-07-13T16:13:43.2298268Z",
                    "publishedAt":  "2026-07-13T16:13:43.2323436Z"
+               },
+    "260702":  {
+                   "fileName":  "2026/07/daily_260702_ai-fruit-market-stall-31d663.webp",
+                   "source":  "ai",
+                   "imageId":  "ai-31d663",
+                   "theme":  "Fruits \u0026 Familiar Markets",
+                   "subtheme":  "neighborhood fruit stall",
+                   "style":  "whimsical storybook realism, watercolor and gouache",
+                   "prompt":  "A cheerful neighborhood fruit stall with a striped canopy and a central wooden counter displaying neatly grouped baskets of oranges, red apples, green pears, bananas, and purple grapes; exactly one subtle in-world PlayJigsaw.net maker plaque.",
+                   "negativePrompt":  "other readable text, misspellings, duplicate mark, floating text, logo, signature, UI, conventional watermark, crowded market, excessive leaves, repeated tiny fruit, heavy blur, low contrast",
+                   "model":  "Codex built-in image generation",
+                   "seed":  "2026-07-02-fruit-market-stall",
+                   "promptVersion":  "daily-v2-familiar-topics",
+                   "originalUrl":  "",
+                   "authorName":  "AI Generated",
+                   "authorProfile":  "",
+                   "qaStatus":  "passed",
+                   "qaScore":  90,
+                   "qaChecks":  {
+                                    "aspectRatio":  "passed",
+                                    "minResolution":  "passed",
+                                    "fileSize":  "passed",
+                                    "diegeticBrandMark":  "passed",
+                                    "composition":  "passed",
+                                    "duplicate":  "passed"
+                                },
+                   "qaNotes":  "Single-candidate workflow. Final WebP 1280x960, 277646 bytes. Exactly one readable PlayJigsaw.net maker plaque.",
+                   "width":  1280,
+                   "height":  960,
+                   "fileSize":  277646,
+                   "imageHash":  "sha256-31d663c0787b9d1bc940c77a53fc1c188833afa4e7774ecfb9bd0c46cd6432ef",
+                   "downloadedAt":  "2026-07-13T16:52:52.1544248Z",
+                   "publishedAt":  "2026-07-13T16:52:52.1544248Z"
                }
 }
