@@ -1,1100 +1,1124 @@
 {
-  "260601": {
-    "fileName": "2026/06/daily_260601_unsplash-xK812P1Yn-Q.webp",
-    "source": "unsplash",
-    "imageId": "xK812P1Yn-Q",
-    "originalUrl": "https://unsplash.com/photos/a-river-with-trees-on-the-side-xK812P1Yn-Q",
-    "authorName": "Moriah Wolfe",
-    "authorProfile": "https://unsplash.com/@moriahaslan",
-    "downloadedAt": "2026-06-15T06:38:50.707Z"
-  },
-  "260602": {
-    "fileName": "2026/06/daily_260602_pixabay-3212345.webp",
-    "source": "pixabay",
-    "imageId": "3212345",
-    "originalUrl": "https://pixabay.com/photos/snow-mountains-alps-alpine-slopes-3212345/",
-    "authorName": "Sweetaholic",
-    "authorProfile": "https://pixabay.com/users/Sweetaholic-296788/",
-    "downloadedAt": "2026-06-15T06:38:55.568Z"
-  },
-  "260603": {
-    "fileName": "2026/06/daily_260603_unsplash-hB1ea7h38Co.webp",
-    "source": "unsplash",
-    "imageId": "hB1ea7h38Co",
-    "originalUrl": "https://unsplash.com/photos/a-red-panda-stands-on-a-tree-branch-hB1ea7h38Co",
-    "authorName": "Harry Skillett",
-    "authorProfile": "https://unsplash.com/@hazer677744",
-    "downloadedAt": "2026-06-15T06:39:00.653Z"
-  },
-  "260604": {
-    "source": "unsplash",
-    "imageId": "1XpB9Ll2aw0",
-    "originalUrl": "https://unsplash.com/photos/a-blurry-photo-of-a-city-at-night-1XpB9Ll2aw0",
-    "authorName": "Keller Chewning",
-    "authorProfile": "https://unsplash.com/@kellerchewning",
-    "downloadedAt": "2026-06-15T07:24:36.329Z",
-    "fileName": "2026/06/daily_260604_unsplash-1XpB9Ll2aw0.webp"
-  },
-  "260605": {
-    "fileName": "2026/06/daily_260605_unsplash-sfjq5Ni9nkY.webp",
-    "source": "unsplash",
-    "imageId": "sfjq5Ni9nkY",
-    "originalUrl": "https://unsplash.com/photos/a-living-room-with-a-fire-place-and-a-chair-sfjq5Ni9nkY",
-    "authorName": "Clay Banks",
-    "authorProfile": "https://unsplash.com/@claybanks",
-    "downloadedAt": "2026-06-15T06:39:10.901Z"
-  },
-  "260606": {
-    "fileName": "2026/06/daily_260606_pixabay-2685521.webp",
-    "source": "pixabay",
-    "imageId": "2685521",
-    "originalUrl": "https://pixabay.com/photos/interior-living-room-furniture-2685521/",
-    "authorName": "4787421",
-    "authorProfile": "https://pixabay.com/users/4787421-4787421/",
-    "downloadedAt": "2026-06-15T06:39:16.447Z"
-  },
-  "260607": {
-    "fileName": "2026/06/daily_260607_unsplash-xHe0i1Kqtog.webp",
-    "source": "unsplash",
-    "imageId": "xHe0i1Kqtog",
-    "originalUrl": "https://unsplash.com/photos/sunset-xHe0i1Kqtog",
-    "authorName": "Florida-Guidebook.com",
-    "authorProfile": "https://unsplash.com/@thefloridaguidebook",
-    "downloadedAt": "2026-06-15T06:39:20.629Z"
-  },
-  "260608": {
-    "fileName": "2026/06/daily_260608_pixabay-1114056.webp",
-    "source": "pixabay",
-    "imageId": "1114056",
-    "originalUrl": "https://pixabay.com/photos/birthday-cake-candles-1114056/",
-    "authorName": "diapicard",
-    "authorProfile": "https://pixabay.com/users/diapicard-1729295/",
-    "downloadedAt": "2026-06-15T06:39:25.636Z"
-  },
-  "260609": {
-    "fileName": "2026/06/daily_260609_unsplash-m2xsYNcu2jw.webp",
-    "source": "unsplash",
-    "imageId": "m2xsYNcu2jw",
-    "originalUrl": "https://unsplash.com/photos/brown-wooden-house-near-green-trees-during-daytime-m2xsYNcu2jw",
-    "authorName": "Bernard Hermant",
-    "authorProfile": "https://unsplash.com/@bernardhermant",
-    "downloadedAt": "2026-06-15T06:39:30.345Z"
-  },
-  "260610": {
-    "fileName": "2026/06/daily_260610_pixabay-1592871.webp",
-    "source": "pixabay",
-    "imageId": "1592871",
-    "originalUrl": "https://pixabay.com/photos/colorful-trigger-fish-fish-1592871/",
-    "authorName": "paulbr75",
-    "authorProfile": "https://pixabay.com/users/paulbr75-2938186/",
-    "downloadedAt": "2026-06-15T06:39:36.503Z"
-  },
-  "260611": {
-    "fileName": "2026/06/daily_260611_unsplash-lu6o8wYhr0M.webp",
-    "source": "unsplash",
-    "imageId": "lu6o8wYhr0M",
-    "originalUrl": "https://unsplash.com/photos/a-field-of-lavender-flowers-under-a-blue-sky-lu6o8wYhr0M",
-    "authorName": "Grant Sams",
-    "authorProfile": "https://unsplash.com/@balmy_sunset",
-    "downloadedAt": "2026-06-15T06:39:51.442Z"
-  },
-  "260612": {
-    "source": "pixabay",
-    "imageId": "5179118",
-    "originalUrl": "https://pixabay.com/photos/dog-puppy-sleep-sleeping-5179118/",
-    "authorName": "mrsemilyhopper",
-    "authorProfile": "https://pixabay.com/users/mrsemilyhopper-5030304/",
-    "downloadedAt": "2026-06-15T06:42:18.781Z",
-    "fileName": "2026/06/daily_260612_pixabay-5179118.webp"
-  },
-  "260613": {
-    "source": "unsplash",
-    "imageId": "pE3nbuHJOak",
-    "originalUrl": "https://unsplash.com/photos/a-purple-and-blue-background-with-mountains-and-stars-pE3nbuHJOak",
-    "authorName": "BoliviaInteligente",
-    "authorProfile": "https://unsplash.com/@boliviainteligente",
-    "downloadedAt": "2026-06-15T07:25:39.227Z",
-    "fileName": "2026/06/daily_260613_unsplash-pE3nbuHJOak.webp"
-  },
-  "260614": {
-    "fileName": "2026/06/daily_260614_pixabay-3287976.webp",
-    "source": "pixabay",
-    "imageId": "3287976",
-    "originalUrl": "https://pixabay.com/photos/forest-fog-morning-mist-3287976/",
-    "authorName": "EvgeniT",
-    "authorProfile": "https://pixabay.com/users/EvgeniT-4930349/",
-    "downloadedAt": "2026-06-15T06:40:07.958Z"
-  },
-  "260615": {
-    "fileName": "2026/06/daily_260615_unsplash-yUSLlcOkJnk.webp",
-    "source": "unsplash",
-    "imageId": "yUSLlcOkJnk",
-    "originalUrl": "https://unsplash.com/photos/man-sitting-on-chair-inside-library-yUSLlcOkJnk",
-    "authorName": "Claudio Schwarz",
-    "authorProfile": "https://unsplash.com/@purzlbaum",
-    "downloadedAt": "2026-06-15T06:40:13.194Z"
-  },
-  "260616": {
-    "fileName": "2026/06/daily_260616_pixabay-566745.webp",
-    "source": "pixabay",
-    "imageId": "566745",
-    "originalUrl": "https://pixabay.com/photos/the-squirrel-tree-nut-park-animal-566745/",
-    "authorName": "PawelRomanowski",
-    "authorProfile": "https://pixabay.com/users/PawelRomanowski-215094/",
-    "downloadedAt": "2026-06-15T06:40:19.499Z"
-  },
-  "260617": {
-    "fileName": "2026/06/daily_260617_unsplash-5jyjsMLeHJo.webp",
-    "source": "unsplash",
-    "imageId": "5jyjsMLeHJo",
-    "originalUrl": "https://unsplash.com/photos/a-small-island-in-the-middle-of-a-body-of-water-5jyjsMLeHJo",
-    "authorName": "Raathi Kugan",
-    "authorProfile": "https://unsplash.com/@raathi",
-    "downloadedAt": "2026-06-15T06:40:23.428Z"
-  },
-  "260618": {
-    "fileName": "2026/06/daily_260618_pixabay-5287871.webp",
-    "source": "pixabay",
-    "imageId": "5287871",
-    "originalUrl": "https://pixabay.com/photos/peacock-head-beak-eyes-feathers-5287871/",
-    "authorName": "Surprising_Media",
-    "authorProfile": "https://pixabay.com/users/Surprising_Media-11873433/",
-    "downloadedAt": "2026-06-15T06:40:28.021Z"
-  },
-  "260619": {
-    "fileName": "2026/06/daily_260619_unsplash-15gSHLBnzEs.webp",
-    "source": "unsplash",
-    "imageId": "15gSHLBnzEs",
-    "originalUrl": "https://unsplash.com/photos/a-wooden-box-filled-with-apples-and-grapes-15gSHLBnzEs",
-    "authorName": "Didier VEILLON",
-    "authorProfile": "https://unsplash.com/@didpics",
-    "downloadedAt": "2026-06-15T06:40:32.414Z"
-  },
-  "260620": {
-    "fileName": "2026/06/daily_260620_pixabay-3107041.webp",
-    "source": "pixabay",
-    "imageId": "3107041",
-    "originalUrl": "https://pixabay.com/photos/lifestyle-bedroom-reside-3107041/",
-    "authorName": "PIRO4D",
-    "authorProfile": "https://pixabay.com/users/PIRO4D-2707530/",
-    "downloadedAt": "2026-06-15T06:40:36.958Z"
-  },
-  "260621": {
-    "fileName": "2026/06/daily_260621_unsplash-s6D5sfyC25g.webp",
-    "source": "unsplash",
-    "imageId": "s6D5sfyC25g",
-    "originalUrl": "https://unsplash.com/photos/a-blurry-photo-of-a-bamboo-tree-s6D5sfyC25g",
-    "authorName": "Johannes Plenio",
-    "authorProfile": "https://unsplash.com/@jplenio",
-    "downloadedAt": "2026-06-15T06:40:40.664Z"
-  },
-  "260622": {
-    "fileName": "2026/06/daily_260622_pixabay-4260630.webp",
-    "source": "pixabay",
-    "imageId": "4260630",
-    "originalUrl": "https://pixabay.com/photos/landscape-mountains-nature-scenic-4260630/",
-    "authorName": "fermiart",
-    "authorProfile": "https://pixabay.com/users/fermiart-12720601/",
-    "downloadedAt": "2026-06-15T06:40:45.148Z"
-  },
-  "260623": {
-    "fileName": "2026/06/daily_260623_unsplash-gS37XxUa3fA.webp",
-    "source": "unsplash",
-    "imageId": "gS37XxUa3fA",
-    "originalUrl": "https://unsplash.com/photos/island-with-autumn-trees-reflected-in-calm-water-gS37XxUa3fA",
-    "authorName": "Andy Wang",
-    "authorProfile": "https://unsplash.com/@space_launch_system",
-    "downloadedAt": "2026-06-15T06:41:13.884Z"
-  },
-  "260624": {
-    "fileName": "2026/06/daily_260624_pixabay-4757090.webp",
-    "source": "pixabay",
-    "imageId": "4757090",
-    "originalUrl": "https://pixabay.com/photos/koala-marsupial-herbivore-arboreal-4757090/",
-    "authorName": "pen_ash",
-    "authorProfile": "https://pixabay.com/users/pen_ash-5526837/",
-    "downloadedAt": "2026-06-15T06:41:19.867Z"
-  },
-  "260625": {
-    "fileName": "2026/06/daily_260625_unsplash-45xYLfbewe8.webp",
-    "source": "unsplash",
-    "imageId": "45xYLfbewe8",
-    "originalUrl": "https://unsplash.com/photos/numerous-hot-air-balloons-drift-through-a-colorful-cloudy-sky-45xYLfbewe8",
-    "authorName": "AJ Alao",
-    "authorProfile": "https://unsplash.com/@ajalao",
-    "downloadedAt": "2026-06-15T06:41:24.780Z"
-  },
-  "260626": {
-    "fileName": "2026/06/daily_260626_pixabay-5194553.webp",
-    "source": "pixabay",
-    "imageId": "5194553",
-    "originalUrl": "https://pixabay.com/photos/sunflower-blossom-bloom-bright-5194553/",
-    "authorName": "schreti",
-    "authorProfile": "https://pixabay.com/users/schreti-3596173/",
-    "downloadedAt": "2026-06-15T06:41:30.687Z"
-  },
-  "260627": {
-    "fileName": "2026/06/daily_260627_unsplash-eyGyeByOjig.webp",
-    "source": "unsplash",
-    "imageId": "eyGyeByOjig",
-    "originalUrl": "https://unsplash.com/photos/a-teddy-bear-wearing-a-blue-hat-eyGyeByOjig",
-    "authorName": "NIKLAS LINIGER",
-    "authorProfile": "https://unsplash.com/@nukdipuk",
-    "downloadedAt": "2026-06-15T06:41:35.533Z"
-  },
-  "260628": {
-    "fileName": "2026/06/daily_260628_pixabay-2714970.webp",
-    "source": "pixabay",
-    "imageId": "2714970",
-    "originalUrl": "https://pixabay.com/photos/coffee-coffee-cup-cup-drink-beans-2714970/",
-    "authorName": "cocoparisienne",
-    "authorProfile": "https://pixabay.com/users/cocoparisienne-127419/",
-    "downloadedAt": "2026-06-15T06:41:40.949Z"
-  },
-  "260629": {
-    "fileName": "2026/06/daily_260629_unsplash-wg3gzHc2dN8.webp",
-    "source": "unsplash",
-    "imageId": "wg3gzHc2dN8",
-    "originalUrl": "https://unsplash.com/photos/a-penguin-stands-on-an-icy-hill-with-snowy-mountains-wg3gzHc2dN8",
-    "authorName": "Jiayin Liu",
-    "authorProfile": "https://unsplash.com/@nyba66",
-    "downloadedAt": "2026-06-15T06:41:45.632Z"
-  },
-  "260630": {
-    "fileName": "2026/06/daily_260630_pixabay-6170999.webp",
-    "source": "pixabay",
-    "imageId": "6170999",
-    "originalUrl": "https://pixabay.com/photos/butterfly-flowers-insects-petals-6170999/",
-    "authorName": "JuanDavid_Dev",
-    "authorProfile": "https://pixabay.com/users/JuanDavid_Dev-21112612/",
-    "downloadedAt": "2026-06-15T06:41:49.833Z"
-  },
-  "260701": {
-    "source": "pixabay",
-    "imageId": "7533717",
-    "originalUrl": "https://pixabay.com/photos/cat-pet-animal-domestic-feline-7533717/",
-    "authorName": "yacubee",
-    "authorProfile": "https://pixabay.com/users/yacubee-14626989/",
-    "downloadedAt": "2026-07-08T15:50:14.730Z",
-    "fileName": "2026/07/daily_260701_pixabay-7533717.webp"
-  },
-  "260702": {
-    "source": "pixabay",
-    "imageId": "777612",
-    "originalUrl": "https://pixabay.com/photos/coffee-cup-still-life-3d-blender-777612/",
-    "authorName": "MasterTux",
-    "authorProfile": "https://pixabay.com/users/MasterTux-470906/",
-    "downloadedAt": "2026-07-08T15:49:19.714Z",
-    "fileName": "2026/07/daily_260702_pixabay-777612.webp"
-  },
-  "260703": {
-    "source": "pixabay",
-    "imageId": "2228277",
-    "originalUrl": "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
-    "authorName": "PIRO4D",
-    "authorProfile": "https://pixabay.com/users/PIRO4D-2707530/",
-    "downloadedAt": "2026-07-08T15:48:58.172Z",
-    "fileName": "2026/07/daily_260703_pixabay-2228277.webp"
-  },
-  "260704": {
-    "source": "pixabay",
-    "imageId": "7513815",
-    "originalUrl": "https://pixabay.com/photos/couch-sofa-lounge-living-room-7513815/",
-    "authorName": "AlexAntropov86",
-    "authorProfile": "https://pixabay.com/users/AlexAntropov86-2691829/",
-    "downloadedAt": "2026-07-08T15:48:30.250Z",
-    "fileName": "2026/07/daily_260704_pixabay-7513815.webp"
-  },
-  "260705": {
-    "source": "pixabay",
-    "imageId": "3049543",
-    "originalUrl": "https://pixabay.com/photos/fantasy-floating-island-dream-3049543/",
-    "authorName": "xresch",
-    "authorProfile": "https://pixabay.com/users/xresch-7410129/",
-    "downloadedAt": "2026-06-15T16:12:34.577Z",
-    "fileName": "2026/07/daily_260705_pixabay-3049543.webp"
-  },
-  "260706": {
-    "fileName": "2026/07/daily_260706_pixabay-5153517.webp",
-    "source": "pixabay",
-    "imageId": "5153517",
-    "originalUrl": "https://pixabay.com/photos/signal-gamer-zone-area-players-5153517/",
-    "authorName": "p2722754",
-    "authorProfile": "https://pixabay.com/users/p2722754-15334846/",
-    "downloadedAt": "2026-06-15T16:03:45.114Z"
-  },
-  "260707": {
-    "fileName": "2026/07/daily_260707_unsplash-zcDkupAH4wc.webp",
-    "source": "unsplash",
-    "imageId": "zcDkupAH4wc",
-    "originalUrl": "https://unsplash.com/photos/three-empty-clear-bottles-zcDkupAH4wc",
-    "authorName": "Daria Nepriakhina ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦",
-    "authorProfile": "https://unsplash.com/@epicantus",
-    "downloadedAt": "2026-06-15T16:03:55.363Z"
-  },
-  "260708": {
-    "fileName": "2026/07/daily_260708_pixabay-7401119.webp",
-    "source": "pixabay",
-    "imageId": "7401119",
-    "originalUrl": "https://pixabay.com/photos/lightning-storm-sky-cloud-mountain-7401119/",
-    "authorName": "gdmoonkiller",
-    "authorProfile": "https://pixabay.com/users/gdmoonkiller-4679220/",
-    "downloadedAt": "2026-06-15T16:04:02.415Z"
-  },
-  "260709": {
-    "fileName": "2026/07/daily_260709_unsplash-t92CxZ9GR8I.webp",
-    "source": "unsplash",
-    "imageId": "t92CxZ9GR8I",
-    "originalUrl": "https://unsplash.com/photos/low-angle-photography-of-plane-near-clouds-t92CxZ9GR8I",
-    "authorName": "Andrew Ruiz",
-    "authorProfile": "https://unsplash.com/@andrewruiz",
-    "downloadedAt": "2026-06-15T16:07:15.400Z"
-  },
-  "260710": {
-    "fileName": "2026/07/daily_260710_pixabay-3998252.webp",
-    "source": "pixabay",
-    "imageId": "3998252",
-    "originalUrl": "https://pixabay.com/photos/book-love-heard-open-book-3998252/",
-    "authorName": "un-perfekt",
-    "authorProfile": "https://pixabay.com/users/un-perfekt-9295476/",
-    "downloadedAt": "2026-06-15T16:04:13.998Z"
-  },
-  "260711": {
-    "source": "unsplash",
-    "imageId": "oIKXm-abcPo",
-    "originalUrl": "https://unsplash.com/photos/bioluminescent-jellyfish-glowing-in-dark-ocean-water-oIKXm-abcPo",
-    "authorName": "Erick Reyna",
-    "authorProfile": "https://unsplash.com/@erickueen",
-    "downloadedAt": "2026-06-15T16:10:02.233Z",
-    "fileName": "2026/07/daily_260711_unsplash-oIKXm-abcPo.webp"
-  },
-  "260712": {
-    "fileName": "2026/07/daily_260712_pixabay-8153526.webp",
-    "source": "pixabay",
-    "imageId": "8153526",
-    "originalUrl": "https://pixabay.com/photos/universe-background-astronomy-8153526/",
-    "authorName": "vikashkr50",
-    "authorProfile": "https://pixabay.com/users/vikashkr50-35301037/",
-    "downloadedAt": "2026-06-15T16:04:26.016Z"
-  },
-  "260713": {
-    "fileName": "2026/07/daily_260713_unsplash-igBJzvBevSo.webp",
-    "source": "unsplash",
-    "imageId": "igBJzvBevSo",
-    "originalUrl": "https://unsplash.com/photos/a-large-stone-structure-with-a-sky-in-the-background-igBJzvBevSo",
-    "authorName": "Cole Ciarlello",
-    "authorProfile": "https://unsplash.com/@cole_ciarlello",
-    "downloadedAt": "2026-06-15T16:04:34.897Z"
-  },
-  "260714": {
-    "fileName": "2026/07/daily_260714_pixabay-6859274.webp",
-    "source": "pixabay",
-    "imageId": "6859274",
-    "originalUrl": "https://pixabay.com/photos/table-setting-holiday-christmas-6859274/",
-    "authorName": "jplenio",
-    "authorProfile": "https://pixabay.com/users/jplenio-7645255/",
-    "downloadedAt": "2026-06-15T16:04:43.278Z"
-  },
-  "260715": {
-    "source": "unsplash",
-    "imageId": "DyHQdpA28zA",
-    "originalUrl": "https://unsplash.com/photos/a-small-yellow-creature-inside-a-wooden-shelter-in-snow-DyHQdpA28zA",
-    "authorName": "Nahmar Saeed",
-    "authorProfile": "https://unsplash.com/@nahmarsaeed",
-    "downloadedAt": "2026-07-08T15:49:39.418Z",
-    "fileName": "2026/07/daily_260715_unsplash-DyHQdpA28zA.webp"
-  },
-  "260716": {
-    "source": "pixabay",
-    "imageId": "3357028",
-    "originalUrl": "https://pixabay.com/photos/architecture-corridor-modern-3357028/",
-    "authorName": "PIRO4D",
-    "authorProfile": "https://pixabay.com/users/PIRO4D-2707530/",
-    "downloadedAt": "2026-07-08T17:23:02.065Z",
-    "fileName": "2026/07/daily_260716_pixabay-3357028.webp"
-  },
-  "260717": {
-    "fileName": "2026/07/daily_260717_unsplash-ZxsCUanD3Io.webp",
-    "source": "unsplash",
-    "imageId": "ZxsCUanD3Io",
-    "originalUrl": "https://unsplash.com/photos/cozy-log-cabin-living-room-with-fireplace-and-hot-tub-ZxsCUanD3Io",
-    "authorName": "Emine Nur C.",
-    "authorProfile": "https://unsplash.com/@eminenur",
-    "downloadedAt": "2026-06-15T16:07:27.021Z"
-  },
-  "260718": {
-    "fileName": "2026/07/daily_260718_pixabay-7051311.webp",
-    "source": "pixabay",
-    "imageId": "7051311",
-    "originalUrl": "https://pixabay.com/photos/books-old-stack-library-reading-7051311/",
-    "authorName": "svecaleksandr249",
-    "authorProfile": "https://pixabay.com/users/svecaleksandr249-25067918/",
-    "downloadedAt": "2026-06-15T16:05:11.215Z"
-  },
-  "260719": {
-    "fileName": "2026/07/daily_260719_unsplash-LMPs-U9jgaE.webp",
-    "source": "unsplash",
-    "imageId": "LMPs-U9jgaE",
-    "originalUrl": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-desk-LMPs-U9jgaE",
-    "authorName": "Jakub ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ»erdzicki",
-    "authorProfile": "https://unsplash.com/@jakubzerdzicki",
-    "downloadedAt": "2026-06-15T16:05:20.561Z"
-  },
-  "260720": {
-    "fileName": "2026/07/daily_260720_pixabay-7009700.webp",
-    "source": "pixabay",
-    "imageId": "7009700",
-    "originalUrl": "https://pixabay.com/photos/still-life-window-rain-relaxation-7009700/",
-    "authorName": "guvo59",
-    "authorProfile": "https://pixabay.com/users/guvo59-9285194/",
-    "downloadedAt": "2026-06-15T16:05:28.603Z"
-  },
-  "260721": {
-    "fileName": "2026/07/daily_260721_unsplash-WfPG9Wlqn3Y.webp",
-    "source": "unsplash",
-    "imageId": "WfPG9Wlqn3Y",
-    "originalUrl": "https://unsplash.com/photos/brown-wooden-house-on-snow-covered-ground-near-body-of-water-during-daytime-WfPG9Wlqn3Y",
-    "authorName": "adrianna geo",
-    "authorProfile": "https://unsplash.com/@adrigeo_",
-    "downloadedAt": "2026-06-15T16:05:39.142Z"
-  },
-  "260722": {
-    "fileName": "2026/07/daily_260722_pixabay-1429817.webp",
-    "source": "pixabay",
-    "imageId": "1429817",
-    "originalUrl": "https://pixabay.com/photos/bluebell-flower-plant-petals-1429817/",
-    "authorName": "TheUjulala",
-    "authorProfile": "https://pixabay.com/users/TheUjulala-59978/",
-    "downloadedAt": "2026-06-15T16:05:47.071Z"
-  },
-  "260723": {
-    "source": "pixabay",
-    "imageId": "7135248",
-    "originalUrl": "https://pixabay.com/photos/digital-graphics-clip-art-7135248/",
-    "authorName": "Mollyroselee",
-    "authorProfile": "https://pixabay.com/users/Mollyroselee-9214707/",
-    "downloadedAt": "2026-07-08T18:35:54.385Z",
-    "fileName": "2026/07/daily_260723_pixabay-7135248.webp"
-  },
-  "260724": {
-    "fileName": "2026/07/daily_260724_pixabay-1834501.webp",
-    "source": "pixabay",
-    "imageId": "1834501",
-    "originalUrl": "https://pixabay.com/photos/letters-old-typewriter-vintage-1834501/",
-    "authorName": "Pexels",
-    "authorProfile": "https://pixabay.com/users/Pexels-2286921/",
-    "downloadedAt": "2026-06-15T16:06:03.381Z"
-  },
-  "260725": {
-    "fileName": "2026/07/daily_260725_unsplash-Z8gSyHq9pdI.webp",
-    "source": "unsplash",
-    "imageId": "Z8gSyHq9pdI",
-    "originalUrl": "https://unsplash.com/photos/cozy-room-with-fairy-lights-and-snowy-window-view-Z8gSyHq9pdI",
-    "authorName": "Hanna Lazar",
-    "authorProfile": "https://unsplash.com/@potokvarte",
-    "downloadedAt": "2026-06-15T16:06:12.274Z"
-  },
-  "260726": {
-    "fileName": "2026/07/daily_260726_pixabay-20983.webp",
-    "source": "pixabay",
-    "imageId": "20983",
-    "originalUrl": "https://pixabay.com/photos/abstract-art-background-bright-20983/",
-    "authorName": "PublicDomainPictures",
-    "authorProfile": "https://pixabay.com/users/PublicDomainPictures-14/",
-    "downloadedAt": "2026-06-15T16:06:20.084Z"
-  },
-  "260727": {
-    "fileName": "2026/07/daily_260727_unsplash-4x6Qn0CHXDQ.webp",
-    "source": "unsplash",
-    "imageId": "4x6Qn0CHXDQ",
-    "originalUrl": "https://unsplash.com/photos/old-buildings-nestled-on-a-lush-green-hillside-4x6Qn0CHXDQ",
-    "authorName": "Sushanta Rokka",
-    "authorProfile": "https://unsplash.com/@sanoyatra",
-    "downloadedAt": "2026-06-15T16:06:29.122Z"
-  },
-  "260728": {
-    "fileName": "2026/07/daily_260728_pixabay-1676197.webp",
-    "source": "pixabay",
-    "imageId": "1676197",
-    "originalUrl": "https://pixabay.com/photos/interior-design-room-guest-1676197/",
-    "authorName": "hoalee268",
-    "authorProfile": "https://pixabay.com/users/hoalee268-3325017/",
-    "downloadedAt": "2026-06-15T16:06:36.162Z"
-  },
-  "260729": {
-    "fileName": "2026/07/daily_260729_unsplash--sKEaoOXQDI.webp",
-    "source": "unsplash",
-    "imageId": "-sKEaoOXQDI",
-    "originalUrl": "https://unsplash.com/photos/a-body-of-water-with-mountains-in-the-back--sKEaoOXQDI",
-    "authorName": "Evan Klimchuk",
-    "authorProfile": "https://unsplash.com/@evanklimchuk",
-    "downloadedAt": "2026-06-15T16:06:46.949Z"
-  },
-  "260730": {
-    "fileName": "2026/07/daily_260730_pixabay-1840481.webp",
-    "source": "pixabay",
-    "imageId": "1840481",
-    "originalUrl": "https://pixabay.com/photos/art-brushes-colorful-paint-1840481/",
-    "authorName": "Pexels",
-    "authorProfile": "https://pixabay.com/users/Pexels-2286921/",
-    "downloadedAt": "2026-06-15T16:11:09.963Z"
-  },
-  "260731": {
-    "fileName": "2026/07/daily_260731_unsplash-QrtMTpOoNLA.webp",
-    "source": "unsplash",
-    "imageId": "QrtMTpOoNLA",
-    "originalUrl": "https://unsplash.com/photos/a-path-in-the-middle-of-a-forest-filled-with-flowers-QrtMTpOoNLA",
-    "authorName": "Maksim Shutov",
-    "authorProfile": "https://unsplash.com/@maksimshutov",
-    "downloadedAt": "2026-06-15T16:07:04.003Z"
-  },
-  "260801": {
-    "fileName": "2026/08/daily_260801_pixabay-777612.webp",
-    "source": "pixabay",
-    "imageId": "777612",
-    "originalUrl": "https://pixabay.com/photos/coffee-cup-still-life-3d-blender-777612/",
-    "authorName": "MasterTux",
-    "authorProfile": "https://pixabay.com/users/MasterTux-470906/",
-    "downloadedAt": "2026-06-15T15:57:59.720Z"
-  },
-  "260802": {
-    "fileName": "2026/08/daily_260802_pixabay-1934831.webp",
-    "source": "pixabay",
-    "imageId": "1934831",
-    "originalUrl": "https://pixabay.com/photos/deer-evening-nature-photoshop-1934831/",
-    "authorName": "thommas68",
-    "authorProfile": "https://pixabay.com/users/thommas68-2571842/",
-    "downloadedAt": "2026-06-15T15:58:06.982Z"
-  },
-  "260803": {
-    "fileName": "2026/08/daily_260803_pixabay-398966.webp",
-    "source": "pixabay",
-    "imageId": "398966",
-    "originalUrl": "https://pixabay.com/photos/orange-cake-dessert-pastry-food-398966/",
-    "authorName": "JESHOOTS-com",
-    "authorProfile": "https://pixabay.com/users/JESHOOTS-com-264599/",
-    "downloadedAt": "2026-06-15T15:58:15.460Z"
-  },
-  "260804": {
-    "fileName": "2026/08/daily_260804_pixabay-2607193.webp",
-    "source": "pixabay",
-    "imageId": "2607193",
-    "originalUrl": "https://pixabay.com/photos/apples-fruits-basket-woven-food-2607193/",
-    "authorName": "StockSnap",
-    "authorProfile": "https://pixabay.com/users/StockSnap-894430/",
-    "downloadedAt": "2026-06-15T15:58:24.161Z"
-  },
-  "260805": {
-    "fileName": "2026/08/daily_260805_pixabay-1601124.webp",
-    "source": "pixabay",
-    "imageId": "1601124",
-    "originalUrl": "https://pixabay.com/photos/macaron-candy-french-1601124/",
-    "authorName": "mcbraga_",
-    "authorProfile": "https://pixabay.com/users/mcbraga_-3118991/",
-    "downloadedAt": "2026-06-15T15:58:34.067Z"
-  },
-  "260806": {
-    "fileName": "2026/08/daily_260806_pixabay-5641462.webp",
-    "source": "pixabay",
-    "imageId": "5641462",
-    "originalUrl": "https://pixabay.com/photos/cup-marshmallows-cinnamon-stick-5641462/",
-    "authorName": "Ylanite",
-    "authorProfile": "https://pixabay.com/users/Ylanite-2218222/",
-    "downloadedAt": "2026-06-15T15:58:43.845Z"
-  },
-  "260807": {
-    "fileName": "2026/08/daily_260807_pixabay-5479993.webp",
-    "source": "pixabay",
-    "imageId": "5479993",
-    "originalUrl": "https://pixabay.com/photos/apple-pie-dough-apple-cake-dessert-5479993/",
-    "authorName": "Einladung_zum_Essen",
-    "authorProfile": "https://pixabay.com/users/Einladung_zum_Essen-3625323/",
-    "downloadedAt": "2026-06-15T15:58:53.271Z"
-  },
-  "260808": {
-    "fileName": "2026/08/daily_260808_pixabay-1155132.webp",
-    "source": "pixabay",
-    "imageId": "1155132",
-    "originalUrl": "https://pixabay.com/photos/meat-food-protein-shish-kebab-1155132/",
-    "authorName": "vika-imperia550",
-    "authorProfile": "https://pixabay.com/users/vika-imperia550-851270/",
-    "downloadedAt": "2026-06-15T15:59:01.594Z"
-  },
-  "260809": {
-    "fileName": "2026/08/daily_260809_pixabay-8306677.webp",
-    "source": "pixabay",
-    "imageId": "8306677",
-    "originalUrl": "https://pixabay.com/photos/apples-apple-tree-ripe-apples-8306677/",
-    "authorName": "jhenning",
-    "authorProfile": "https://pixabay.com/users/jhenning-8658480/",
-    "downloadedAt": "2026-06-15T15:59:11.654Z"
-  },
-  "260810": {
-    "fileName": "2026/08/daily_260810_pixabay-8419128.webp",
-    "source": "pixabay",
-    "imageId": "8419128",
-    "originalUrl": "https://pixabay.com/photos/cupcake-cake-dessert-food-sweet-8419128/",
-    "authorName": "TastyLens",
-    "authorProfile": "https://pixabay.com/users/TastyLens-39583042/",
-    "downloadedAt": "2026-06-15T15:59:20.091Z"
-  },
-  "260811": {
-    "fileName": "2026/08/daily_260811_pixabay-1799557.webp",
-    "source": "pixabay",
-    "imageId": "1799557",
-    "originalUrl": "https://pixabay.com/photos/colorado-fall-leaves-mountains-fall-1799557/",
-    "authorName": "theblckwlf",
-    "authorProfile": "https://pixabay.com/users/theblckwlf-3689085/",
-    "downloadedAt": "2026-06-15T15:59:31.197Z"
-  },
-  "260812": {
-    "fileName": "2026/08/daily_260812_pixabay-1681485.webp",
-    "source": "pixabay",
-    "imageId": "1681485",
-    "originalUrl": "https://pixabay.com/photos/lake-mountains-hut-mountain-lake-1681485/",
-    "authorName": "TeeFarm",
-    "authorProfile": "https://pixabay.com/users/TeeFarm-199315/",
-    "downloadedAt": "2026-06-15T15:59:40.486Z"
-  },
-  "260813": {
-    "fileName": "2026/08/daily_260813_pixabay-1208808.webp",
-    "source": "pixabay",
-    "imageId": "1208808",
-    "originalUrl": "https://pixabay.com/photos/sunset-dock-florida-tropical-sky-1208808/",
-    "authorName": "Michelle-Maria",
-    "authorProfile": "https://pixabay.com/users/Michelle-Maria-165491/",
-    "downloadedAt": "2026-06-15T15:59:48.338Z"
-  },
-  "260814": {
-    "fileName": "2026/08/daily_260814_pixabay-2320612.webp",
-    "source": "pixabay",
-    "imageId": "2320612",
-    "originalUrl": "https://pixabay.com/photos/fantasy-fairy-tale-elf-composing-2320612/",
-    "authorName": "KELLEPICS",
-    "authorProfile": "https://pixabay.com/users/KELLEPICS-4893063/",
-    "downloadedAt": "2026-06-15T15:59:56.062Z"
-  },
-  "260815": {
-    "fileName": "2026/08/daily_260815_unsplash-o0MqWQwS6ww.webp",
-    "source": "unsplash",
-    "imageId": "o0MqWQwS6ww",
-    "originalUrl": "https://unsplash.com/photos/sunlight-peeks-through-a-bamboo-forest-and-trees-o0MqWQwS6ww",
-    "authorName": "Balooon69",
-    "authorProfile": "https://unsplash.com/@balooon69",
-    "downloadedAt": "2026-06-15T16:00:04.424Z"
-  },
-  "260816": {
-    "fileName": "2026/08/daily_260816_pixabay-218591.webp",
-    "source": "pixabay",
-    "imageId": "218591",
-    "originalUrl": "https://pixabay.com/photos/niagara-falls-waterfall-water-power-218591/",
-    "authorName": "urformat",
-    "authorProfile": "https://pixabay.com/users/urformat-82710/",
-    "downloadedAt": "2026-06-15T16:00:13.263Z"
-  },
-  "260817": {
-    "fileName": "2026/08/daily_260817_unsplash-40Dwl-5VwtU.webp",
-    "source": "unsplash",
-    "imageId": "40Dwl-5VwtU",
-    "originalUrl": "https://unsplash.com/photos/field-of-sunflowers-at-sunset-with-warm-light-40Dwl-5VwtU",
-    "authorName": "Fethi Benattallah",
-    "authorProfile": "https://unsplash.com/@fethibenattallah",
-    "downloadedAt": "2026-06-15T16:00:21.094Z"
-  },
-  "260818": {
-    "fileName": "2026/08/daily_260818_pixabay-4021971.webp",
-    "source": "pixabay",
-    "imageId": "4021971",
-    "originalUrl": "https://pixabay.com/photos/field-horizon-lavender-dawn-nature-4021971/",
-    "authorName": "TanyaKurt",
-    "authorProfile": "https://pixabay.com/users/TanyaKurt-11725125/",
-    "downloadedAt": "2026-06-15T16:00:31.021Z"
-  },
-  "260819": {
-    "fileName": "2026/08/daily_260819_unsplash-sMhO-Beh_SM.webp",
-    "source": "unsplash",
-    "imageId": "sMhO-Beh_SM",
-    "originalUrl": "https://unsplash.com/photos/a-blue-fish-is-swimming-on-a-coral-reef-sMhO-Beh_SM",
-    "authorName": "Martin Hayes",
-    "authorProfile": "https://unsplash.com/@madh1969",
-    "downloadedAt": "2026-06-15T16:00:39.418Z"
-  },
-  "260820": {
-    "fileName": "2026/08/daily_260820_pixabay-1535201.webp",
-    "source": "pixabay",
-    "imageId": "1535201",
-    "originalUrl": "https://pixabay.com/photos/christmas-background-fog-forest-1535201/",
-    "authorName": "LUM3N",
-    "authorProfile": "https://pixabay.com/users/LUM3N-1066559/",
-    "downloadedAt": "2026-06-15T16:00:47.206Z"
-  },
-  "260821": {
-    "fileName": "2026/08/daily_260821_unsplash-PWf-Dr2qpOo.webp",
-    "source": "unsplash",
-    "imageId": "PWf-Dr2qpOo",
-    "originalUrl": "https://unsplash.com/photos/black-textile-PWf-Dr2qpOo",
-    "authorName": "Mikk TÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµnissoo",
-    "authorProfile": "https://unsplash.com/@themikk",
-    "downloadedAt": "2026-06-15T16:00:55.350Z"
-  },
-  "260822": {
-    "fileName": "2026/08/daily_260822_pixabay-4069596.webp",
-    "source": "pixabay",
-    "imageId": "4069596",
-    "originalUrl": "https://pixabay.com/photos/cherry-blossoms-branch-pink-spring-4069596/",
-    "authorName": "165106",
-    "authorProfile": "https://pixabay.com/users/165106-165106/",
-    "downloadedAt": "2026-06-15T16:01:03.239Z"
-  },
-  "260823": {
-    "fileName": "2026/08/daily_260823_unsplash-KJ1ida5X2hg.webp",
-    "source": "unsplash",
-    "imageId": "KJ1ida5X2hg",
-    "originalUrl": "https://unsplash.com/photos/high-angle-photo-of-trees-KJ1ida5X2hg",
-    "authorName": "Krisztian Tabori",
-    "authorProfile": "https://unsplash.com/@ktabori",
-    "downloadedAt": "2026-06-15T16:01:10.952Z"
-  },
-  "260824": {
-    "fileName": "2026/08/daily_260824_pixabay-5947608.webp",
-    "source": "pixabay",
-    "imageId": "5947608",
-    "originalUrl": "https://pixabay.com/photos/northern-lights-aurora-borealis-5947608/",
-    "authorName": "NicoBecker59",
-    "authorProfile": "https://pixabay.com/users/NicoBecker59-19845444/",
-    "downloadedAt": "2026-06-15T16:01:20.638Z"
-  },
-  "260825": {
-    "fileName": "2026/08/daily_260825_unsplash-FcwFepgo3DI.webp",
-    "source": "unsplash",
-    "imageId": "FcwFepgo3DI",
-    "originalUrl": "https://unsplash.com/photos/a-canyon-with-a-river-running-through-it-FcwFepgo3DI",
-    "authorName": "nixon",
-    "authorProfile": "https://unsplash.com/@realview",
-    "downloadedAt": "2026-06-15T16:01:28.182Z"
-  },
-  "260826": {
-    "fileName": "2026/08/daily_260826_pixabay-7381618.webp",
-    "source": "pixabay",
-    "imageId": "7381618",
-    "originalUrl": "https://pixabay.com/photos/subway-metro-tunnel-lights-urban-7381618/",
-    "authorName": "Photos_by_Paul",
-    "authorProfile": "https://pixabay.com/users/Photos_by_Paul-28288357/",
-    "downloadedAt": "2026-06-15T16:01:36.192Z"
-  },
-  "260827": {
-    "fileName": "2026/08/daily_260827_unsplash-bP4ZcP1KgGc.webp",
-    "source": "unsplash",
-    "imageId": "bP4ZcP1KgGc",
-    "originalUrl": "https://unsplash.com/photos/a-close-up-of-rocks-and-water-in-a-body-of-water-bP4ZcP1KgGc",
-    "authorName": "Cande Westh",
-    "authorProfile": "https://unsplash.com/@candegrapher",
-    "downloadedAt": "2026-06-15T16:01:43.646Z"
-  },
-  "260828": {
-    "fileName": "2026/08/daily_260828_pixabay-3579931.webp",
-    "source": "pixabay",
-    "imageId": "3579931",
-    "originalUrl": "https://pixabay.com/photos/sunrise-wind-farm-wind-park-3579931/",
-    "authorName": "Myriams-Fotos",
-    "authorProfile": "https://pixabay.com/users/Myriams-Fotos-1627417/",
-    "downloadedAt": "2026-06-15T16:01:51.575Z"
-  },
-  "260829": {
-    "fileName": "2026/08/daily_260829_unsplash-69Hdb0II9Jo.webp",
-    "source": "unsplash",
-    "imageId": "69Hdb0II9Jo",
-    "originalUrl": "https://unsplash.com/photos/green-field-surrounded-with-tall-and-green-trees-during-daytime-69Hdb0II9Jo",
-    "authorName": "James Fitzgerald",
-    "authorProfile": "https://unsplash.com/@reallygoodjames",
-    "downloadedAt": "2026-06-15T16:02:01.530Z"
-  },
-  "260830": {
-    "fileName": "2026/08/daily_260830_pixabay-10185991.webp",
-    "source": "pixabay",
-    "imageId": "10185991",
-    "originalUrl": "https://pixabay.com/photos/italy-nature-sky-bell-tower-10185991/",
-    "authorName": "manri1965",
-    "authorProfile": "https://pixabay.com/users/manri1965-51697187/",
-    "downloadedAt": "2026-06-15T16:02:08.871Z"
-  },
-  "260831": {
-    "fileName": "2026/08/daily_260831_unsplash-jHGxoHhN000.webp",
-    "source": "unsplash",
-    "imageId": "jHGxoHhN000",
-    "originalUrl": "https://unsplash.com/photos/body-of-water-beside-cliff-jHGxoHhN000",
-    "authorName": "Roman BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rki",
-    "authorProfile": "https://unsplash.com/@romanleandro",
-    "downloadedAt": "2026-06-15T16:02:16.329Z"
-  },
-  "260901": {
-    "fileName": "2026/09/daily_260901_unsplash-Xq8Q4_n-ZCM.webp",
-    "source": "unsplash",
-    "imageId": "Xq8Q4_n-ZCM",
-    "originalUrl": "https://unsplash.com/photos/brown-rocks-on-green-grass-near-body-of-water-during-daytime-Xq8Q4_n-ZCM",
-    "authorName": "Fuu J",
-    "authorProfile": "https://unsplash.com/@fuuj",
-    "downloadedAt": "2026-06-15T16:13:19.416Z"
-  },
-  "260902": {
-    "fileName": "2026/09/daily_260902_pixabay-1907859.webp",
-    "source": "pixabay",
-    "imageId": "1907859",
-    "originalUrl": "https://pixabay.com/photos/winter-landscape-snow-trees-1907859/",
-    "authorName": "AlainAudet",
-    "authorProfile": "https://pixabay.com/users/AlainAudet-631535/",
-    "downloadedAt": "2026-06-15T16:13:26.570Z"
-  },
-  "260903": {
-    "fileName": "2026/09/daily_260903_unsplash-nD9tEn63suc.webp",
-    "source": "unsplash",
-    "imageId": "nD9tEn63suc",
-    "originalUrl": "https://unsplash.com/photos/purple-flower-field-under-white-sky-during-daytime-nD9tEn63suc",
-    "authorName": "Antony BEC",
-    "authorProfile": "https://unsplash.com/@antony_bec",
-    "downloadedAt": "2026-06-15T16:13:32.446Z"
-  },
-  "260904": {
-    "fileName": "2026/09/daily_260904_pixabay-5870088.webp",
-    "source": "pixabay",
-    "imageId": "5870088",
-    "originalUrl": "https://pixabay.com/photos/coast-sea-fog-rocky-rocky-coast-5870088/",
-    "authorName": "BernhardJaeck",
-    "authorProfile": "https://pixabay.com/users/BernhardJaeck-15593888/",
-    "downloadedAt": "2026-06-15T16:16:53.760Z"
-  },
-  "260905": {
-    "fileName": "2026/09/daily_260905_pixabay-779827.webp",
-    "source": "pixabay",
-    "imageId": "779827",
-    "originalUrl": "https://pixabay.com/photos/autumn-leaves-trees-path-trail-779827/",
-    "authorName": "Hans",
-    "authorProfile": "https://pixabay.com/users/Hans-2/",
-    "downloadedAt": "2026-06-15T16:24:29.240Z"
-  },
-  "260906": {
-    "fileName": "2026/09/daily_260906_pixabay-7533717.webp",
-    "source": "pixabay",
-    "imageId": "7533717",
-    "originalUrl": "https://pixabay.com/photos/cat-pet-animal-domestic-feline-7533717/",
-    "authorName": "yacubee",
-    "authorProfile": "https://pixabay.com/users/yacubee-14626989/",
-    "downloadedAt": "2026-06-15T16:17:08.726Z"
-  },
-  "260907": {
-    "fileName": "2026/09/daily_260907_pixabay-10105348.webp",
-    "source": "pixabay",
-    "imageId": "10105348",
-    "originalUrl": "https://pixabay.com/photos/dragon-fantasy-mythology-colorful-10105348/",
-    "authorName": "Robo-Art",
-    "authorProfile": "https://pixabay.com/users/Robo-Art-54479415/",
-    "downloadedAt": "2026-06-15T16:24:39.434Z"
-  },
-  "260908": {
-    "fileName": "2026/09/daily_260908_pixabay-6843881.webp",
-    "source": "pixabay",
-    "imageId": "6843881",
-    "originalUrl": "https://pixabay.com/photos/lamps-lanterns-candles-6843881/",
-    "authorName": "SoyKhaler",
-    "authorProfile": "https://pixabay.com/users/SoyKhaler-6351521/",
-    "downloadedAt": "2026-06-15T16:24:46.105Z"
-  },
-  "260909": {
-    "fileName": "2026/09/daily_260909_pixabay-7304564.webp",
-    "source": "pixabay",
-    "imageId": "7304564",
-    "originalUrl": "https://pixabay.com/photos/lavender-field-purple-flowering-7304564/",
-    "authorName": "katerinavulcova",
-    "authorProfile": "https://pixabay.com/users/katerinavulcova-7453549/",
-    "downloadedAt": "2026-06-15T16:24:53.909Z"
-  },
-  "260910": {
-    "fileName": "2026/09/daily_260910_pixabay-9534768.webp",
-    "source": "pixabay",
-    "imageId": "9534768",
-    "originalUrl": "https://pixabay.com/photos/peacock-bird-plumage-multicoloured-9534768/",
-    "authorName": "Vario545",
-    "authorProfile": "https://pixabay.com/users/Vario545-6936851/",
-    "downloadedAt": "2026-06-15T16:14:18.124Z"
-  },
-  "260911": {
-    "fileName": "2026/09/daily_260911_unsplash-D7E7lfIn5IE.webp",
-    "source": "unsplash",
-    "imageId": "D7E7lfIn5IE",
-    "originalUrl": "https://unsplash.com/photos/a-yellow-butterfly-sitting-on-top-of-a-flower-D7E7lfIn5IE",
-    "authorName": "Randy Lisciarelli",
-    "authorProfile": "https://unsplash.com/@verapax",
-    "downloadedAt": "2026-06-15T16:14:23.780Z"
-  },
-  "260912": {
-    "fileName": "2026/09/daily_260912_pixabay-5599375.webp",
-    "source": "pixabay",
-    "imageId": "5599375",
-    "originalUrl": "https://pixabay.com/photos/aurora-borealis-lake-snow-aurora-5599375/",
-    "authorName": "kamilgrygo",
-    "authorProfile": "https://pixabay.com/users/kamilgrygo-17873345/",
-    "downloadedAt": "2026-06-15T16:25:00.950Z"
-  },
-  "260913": {
-    "fileName": "2026/09/daily_260913_unsplash-i3F-UdMfLlo.webp",
-    "source": "unsplash",
-    "imageId": "i3F-UdMfLlo",
-    "originalUrl": "https://unsplash.com/photos/a-bird-flies-over-a-snowy-mountain-landscape-i3F-UdMfLlo",
-    "authorName": "Matthew Stephenson",
-    "authorProfile": "https://unsplash.com/@matthewryanstephenson",
-    "downloadedAt": "2026-06-15T16:14:35.857Z"
-  },
-  "260914": {
-    "fileName": "2026/09/daily_260914_pixabay-1046693.webp",
-    "source": "pixabay",
-    "imageId": "1046693",
-    "originalUrl": "https://pixabay.com/photos/heart-balloon-sky-love-red-balloon-1046693/",
-    "authorName": "Peggy_Marco",
-    "authorProfile": "https://pixabay.com/users/Peggy_Marco-1553824/",
-    "downloadedAt": "2026-06-15T16:25:08.125Z"
-  },
-  "260915": {
-    "fileName": "2026/09/daily_260915_unsplash-HAK9lNyTUzg.webp",
-    "source": "unsplash",
-    "imageId": "HAK9lNyTUzg",
-    "originalUrl": "https://unsplash.com/photos/waves-crashing-on-a-beach-HAK9lNyTUzg",
-    "authorName": "Duane Keaton",
-    "authorProfile": "https://unsplash.com/@greenblanketmedia",
-    "downloadedAt": "2026-06-15T16:14:47.864Z"
-  },
-  "260916": {
-    "fileName": "2026/09/daily_260916_pixabay-2443699.webp",
-    "source": "pixabay",
-    "imageId": "2443699",
-    "originalUrl": "https://pixabay.com/photos/red-wine-glasses-log-fire-red-wine-2443699/",
-    "authorName": "stevepb",
-    "authorProfile": "https://pixabay.com/users/stevepb-282134/",
-    "downloadedAt": "2026-06-15T16:14:53.618Z"
-  },
-  "260917": {
-    "fileName": "2026/09/daily_260917_unsplash-XwBv7X4ZXIg.webp",
-    "source": "unsplash",
-    "imageId": "XwBv7X4ZXIg",
-    "originalUrl": "https://unsplash.com/photos/a-stag-with-large-antlers-stands-in-thick-fog-XwBv7X4ZXIg",
-    "authorName": "Matthieu Rochette",
-    "authorProfile": "https://unsplash.com/@matthieur68",
-    "downloadedAt": "2026-06-15T16:14:58.860Z"
-  },
-  "260918": {
-    "fileName": "2026/09/daily_260918_pixabay-5749914.webp",
-    "source": "pixabay",
-    "imageId": "5749914",
-    "originalUrl": "https://pixabay.com/photos/fallow-deer-animal-forest-deer-5749914/",
-    "authorName": "RickDekker",
-    "authorProfile": "https://pixabay.com/users/RickDekker-19139509/",
-    "downloadedAt": "2026-06-15T16:15:04.756Z"
-  },
-  "260919": {
-    "fileName": "2026/09/daily_260919_pixabay-7604917.webp",
-    "source": "pixabay",
-    "imageId": "7604917",
-    "originalUrl": "https://pixabay.com/photos/winter-frost-leaf-leaves-fall-7604917/",
-    "authorName": "Lolame",
-    "authorProfile": "https://pixabay.com/users/Lolame-37761/",
-    "downloadedAt": "2026-06-15T16:17:44.743Z"
-  },
-  "260920": {
-    "fileName": "2026/09/daily_260920_pixabay-7148194.webp",
-    "source": "pixabay",
-    "imageId": "7148194",
-    "originalUrl": "https://pixabay.com/photos/birds-swan-ornithology-species-7148194/",
-    "authorName": "onkelglocke",
-    "authorProfile": "https://pixabay.com/users/onkelglocke-12931647/",
-    "downloadedAt": "2026-06-15T16:15:15.970Z"
-  },
-  "260921": {
-    "fileName": "2026/09/daily_260921_unsplash-nvrsXlVWpP4.webp",
-    "source": "unsplash",
-    "imageId": "nvrsXlVWpP4",
-    "originalUrl": "https://unsplash.com/photos/two-green-parrots-perched-on-a-tree-branch-nvrsXlVWpP4",
-    "authorName": "Kevin Aicardi",
-    "authorProfile": "https://unsplash.com/@kevinacrd",
-    "downloadedAt": "2026-06-15T16:15:22.682Z"
-  },
-  "260922": {
-    "fileName": "2026/09/daily_260922_pixabay-7970677.webp",
-    "source": "pixabay",
-    "imageId": "7970677",
-    "originalUrl": "https://pixabay.com/photos/desert-sunrise-fog-horizon-haze-7970677/",
-    "authorName": "Tho-Ge",
-    "authorProfile": "https://pixabay.com/users/Tho-Ge-113537/",
-    "downloadedAt": "2026-06-15T16:15:27.974Z"
-  },
-  "260923": {
-    "fileName": "2026/09/daily_260923_unsplash-3Pzz1_TyQFg.webp",
-    "source": "unsplash",
-    "imageId": "3Pzz1_TyQFg",
-    "originalUrl": "https://unsplash.com/photos/green-meadow-with-pine-trees-and-distant-mountains-3Pzz1_TyQFg",
-    "authorName": "Anna Blake",
-    "authorProfile": "https://unsplash.com/@blake_a",
-    "downloadedAt": "2026-06-15T16:15:34.022Z"
-  },
-  "260924": {
-    "fileName": "2026/09/daily_260924_pixabay-3795396.webp",
-    "source": "pixabay",
-    "imageId": "3795396",
-    "originalUrl": "https://pixabay.com/photos/squirrel-squirrel-eating-nuts-3795396/",
-    "authorName": "semiproflyfishing",
-    "authorProfile": "https://pixabay.com/users/semiproflyfishing-10515389/",
-    "downloadedAt": "2026-06-15T16:25:57.593Z"
-  },
-  "260925": {
-    "fileName": "2026/09/daily_260925_pixabay-6833167.webp",
-    "source": "pixabay",
-    "imageId": "6833167",
-    "originalUrl": "https://pixabay.com/photos/city-travel-tourism-road-cars-6833167/",
-    "authorName": "Bruzzzzz",
-    "authorProfile": "https://pixabay.com/users/Bruzzzzz-24578254/",
-    "downloadedAt": "2026-06-15T16:15:45.550Z"
-  },
-  "260926": {
-    "fileName": "2026/09/daily_260926_pixabay-7516293.webp",
-    "source": "pixabay",
-    "imageId": "7516293",
-    "originalUrl": "https://pixabay.com/photos/ai-generated-fantasy-fairy-tale-fog-7516293/",
-    "authorName": "Alan_Frijns",
-    "authorProfile": "https://pixabay.com/users/Alan_Frijns-16705522/",
-    "downloadedAt": "2026-06-15T16:15:52.353Z"
-  },
-  "260927": {
-    "fileName": "2026/09/daily_260927_pixabay-1868299.webp",
-    "source": "pixabay",
-    "imageId": "1868299",
-    "originalUrl": "https://pixabay.com/photos/snow-mountains-panorama-panoramic-1868299/",
-    "authorName": "Pexels",
-    "authorProfile": "https://pixabay.com/users/Pexels-2286921/",
-    "downloadedAt": "2026-06-15T16:15:57.141Z"
-  },
-  "260928": {
-    "fileName": "2026/09/daily_260928_pixabay-3175321.webp",
-    "source": "pixabay",
-    "imageId": "3175321",
-    "originalUrl": "https://pixabay.com/photos/castle-flying-island-flying-castle-3175321/",
-    "authorName": "Sunriseforever",
-    "authorProfile": "https://pixabay.com/users/Sunriseforever-6314823/",
-    "downloadedAt": "2026-06-15T16:16:04.201Z"
-  },
-  "260929": {
-    "fileName": "2026/09/daily_260929_pixabay-3116883.webp",
-    "source": "pixabay",
-    "imageId": "3116883",
-    "originalUrl": "https://pixabay.com/photos/park-bench-night-evening-fog-mist-3116883/",
-    "authorName": "Arcaion",
-    "authorProfile": "https://pixabay.com/users/Arcaion-2057886/",
-    "downloadedAt": "2026-06-15T16:16:09.664Z"
-  },
-  "260930": {
-    "fileName": "2026/09/daily_260930_pixabay-7816608.webp",
-    "source": "pixabay",
-    "imageId": "7816608",
-    "originalUrl": "https://pixabay.com/photos/book-spectacles-potion-spell-7816608/",
-    "authorName": "aetaylor",
-    "authorProfile": "https://pixabay.com/users/aetaylor-2497217/",
-    "downloadedAt": "2026-06-15T16:16:15.560Z"
-  }
+    "260601":  {
+                   "fileName":  "2026/06/daily_260601_unsplash-xK812P1Yn-Q.webp",
+                   "source":  "unsplash",
+                   "imageId":  "xK812P1Yn-Q",
+                   "originalUrl":  "https://unsplash.com/photos/a-river-with-trees-on-the-side-xK812P1Yn-Q",
+                   "authorName":  "Moriah Wolfe",
+                   "authorProfile":  "https://unsplash.com/@moriahaslan",
+                   "downloadedAt":  "2026-06-15T06:38:50.707Z"
+               },
+    "260602":  {
+                   "fileName":  "2026/06/daily_260602_pixabay-3212345.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3212345",
+                   "originalUrl":  "https://pixabay.com/photos/snow-mountains-alps-alpine-slopes-3212345/",
+                   "authorName":  "Sweetaholic",
+                   "authorProfile":  "https://pixabay.com/users/Sweetaholic-296788/",
+                   "downloadedAt":  "2026-06-15T06:38:55.568Z"
+               },
+    "260603":  {
+                   "fileName":  "2026/06/daily_260603_unsplash-hB1ea7h38Co.webp",
+                   "source":  "unsplash",
+                   "imageId":  "hB1ea7h38Co",
+                   "originalUrl":  "https://unsplash.com/photos/a-red-panda-stands-on-a-tree-branch-hB1ea7h38Co",
+                   "authorName":  "Harry Skillett",
+                   "authorProfile":  "https://unsplash.com/@hazer677744",
+                   "downloadedAt":  "2026-06-15T06:39:00.653Z"
+               },
+    "260604":  {
+                   "source":  "unsplash",
+                   "imageId":  "1XpB9Ll2aw0",
+                   "originalUrl":  "https://unsplash.com/photos/a-blurry-photo-of-a-city-at-night-1XpB9Ll2aw0",
+                   "authorName":  "Keller Chewning",
+                   "authorProfile":  "https://unsplash.com/@kellerchewning",
+                   "downloadedAt":  "2026-06-15T07:24:36.329Z",
+                   "fileName":  "2026/06/daily_260604_unsplash-1XpB9Ll2aw0.webp"
+               },
+    "260605":  {
+                   "fileName":  "2026/06/daily_260605_unsplash-sfjq5Ni9nkY.webp",
+                   "source":  "unsplash",
+                   "imageId":  "sfjq5Ni9nkY",
+                   "originalUrl":  "https://unsplash.com/photos/a-living-room-with-a-fire-place-and-a-chair-sfjq5Ni9nkY",
+                   "authorName":  "Clay Banks",
+                   "authorProfile":  "https://unsplash.com/@claybanks",
+                   "downloadedAt":  "2026-06-15T06:39:10.901Z"
+               },
+    "260606":  {
+                   "fileName":  "2026/06/daily_260606_pixabay-2685521.webp",
+                   "source":  "pixabay",
+                   "imageId":  "2685521",
+                   "originalUrl":  "https://pixabay.com/photos/interior-living-room-furniture-2685521/",
+                   "authorName":  "4787421",
+                   "authorProfile":  "https://pixabay.com/users/4787421-4787421/",
+                   "downloadedAt":  "2026-06-15T06:39:16.447Z"
+               },
+    "260607":  {
+                   "fileName":  "2026/06/daily_260607_unsplash-xHe0i1Kqtog.webp",
+                   "source":  "unsplash",
+                   "imageId":  "xHe0i1Kqtog",
+                   "originalUrl":  "https://unsplash.com/photos/sunset-xHe0i1Kqtog",
+                   "authorName":  "Florida-Guidebook.com",
+                   "authorProfile":  "https://unsplash.com/@thefloridaguidebook",
+                   "downloadedAt":  "2026-06-15T06:39:20.629Z"
+               },
+    "260608":  {
+                   "fileName":  "2026/06/daily_260608_pixabay-1114056.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1114056",
+                   "originalUrl":  "https://pixabay.com/photos/birthday-cake-candles-1114056/",
+                   "authorName":  "diapicard",
+                   "authorProfile":  "https://pixabay.com/users/diapicard-1729295/",
+                   "downloadedAt":  "2026-06-15T06:39:25.636Z"
+               },
+    "260609":  {
+                   "fileName":  "2026/06/daily_260609_unsplash-m2xsYNcu2jw.webp",
+                   "source":  "unsplash",
+                   "imageId":  "m2xsYNcu2jw",
+                   "originalUrl":  "https://unsplash.com/photos/brown-wooden-house-near-green-trees-during-daytime-m2xsYNcu2jw",
+                   "authorName":  "Bernard Hermant",
+                   "authorProfile":  "https://unsplash.com/@bernardhermant",
+                   "downloadedAt":  "2026-06-15T06:39:30.345Z"
+               },
+    "260610":  {
+                   "fileName":  "2026/06/daily_260610_pixabay-1592871.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1592871",
+                   "originalUrl":  "https://pixabay.com/photos/colorful-trigger-fish-fish-1592871/",
+                   "authorName":  "paulbr75",
+                   "authorProfile":  "https://pixabay.com/users/paulbr75-2938186/",
+                   "downloadedAt":  "2026-06-15T06:39:36.503Z"
+               },
+    "260611":  {
+                   "fileName":  "2026/06/daily_260611_unsplash-lu6o8wYhr0M.webp",
+                   "source":  "unsplash",
+                   "imageId":  "lu6o8wYhr0M",
+                   "originalUrl":  "https://unsplash.com/photos/a-field-of-lavender-flowers-under-a-blue-sky-lu6o8wYhr0M",
+                   "authorName":  "Grant Sams",
+                   "authorProfile":  "https://unsplash.com/@balmy_sunset",
+                   "downloadedAt":  "2026-06-15T06:39:51.442Z"
+               },
+    "260612":  {
+                   "source":  "pixabay",
+                   "imageId":  "5179118",
+                   "originalUrl":  "https://pixabay.com/photos/dog-puppy-sleep-sleeping-5179118/",
+                   "authorName":  "mrsemilyhopper",
+                   "authorProfile":  "https://pixabay.com/users/mrsemilyhopper-5030304/",
+                   "downloadedAt":  "2026-06-15T06:42:18.781Z",
+                   "fileName":  "2026/06/daily_260612_pixabay-5179118.webp"
+               },
+    "260613":  {
+                   "source":  "unsplash",
+                   "imageId":  "pE3nbuHJOak",
+                   "originalUrl":  "https://unsplash.com/photos/a-purple-and-blue-background-with-mountains-and-stars-pE3nbuHJOak",
+                   "authorName":  "BoliviaInteligente",
+                   "authorProfile":  "https://unsplash.com/@boliviainteligente",
+                   "downloadedAt":  "2026-06-15T07:25:39.227Z",
+                   "fileName":  "2026/06/daily_260613_unsplash-pE3nbuHJOak.webp"
+               },
+    "260614":  {
+                   "fileName":  "2026/06/daily_260614_pixabay-3287976.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3287976",
+                   "originalUrl":  "https://pixabay.com/photos/forest-fog-morning-mist-3287976/",
+                   "authorName":  "EvgeniT",
+                   "authorProfile":  "https://pixabay.com/users/EvgeniT-4930349/",
+                   "downloadedAt":  "2026-06-15T06:40:07.958Z"
+               },
+    "260615":  {
+                   "fileName":  "2026/06/daily_260615_unsplash-yUSLlcOkJnk.webp",
+                   "source":  "unsplash",
+                   "imageId":  "yUSLlcOkJnk",
+                   "originalUrl":  "https://unsplash.com/photos/man-sitting-on-chair-inside-library-yUSLlcOkJnk",
+                   "authorName":  "Claudio Schwarz",
+                   "authorProfile":  "https://unsplash.com/@purzlbaum",
+                   "downloadedAt":  "2026-06-15T06:40:13.194Z"
+               },
+    "260616":  {
+                   "fileName":  "2026/06/daily_260616_pixabay-566745.webp",
+                   "source":  "pixabay",
+                   "imageId":  "566745",
+                   "originalUrl":  "https://pixabay.com/photos/the-squirrel-tree-nut-park-animal-566745/",
+                   "authorName":  "PawelRomanowski",
+                   "authorProfile":  "https://pixabay.com/users/PawelRomanowski-215094/",
+                   "downloadedAt":  "2026-06-15T06:40:19.499Z"
+               },
+    "260617":  {
+                   "fileName":  "2026/06/daily_260617_unsplash-5jyjsMLeHJo.webp",
+                   "source":  "unsplash",
+                   "imageId":  "5jyjsMLeHJo",
+                   "originalUrl":  "https://unsplash.com/photos/a-small-island-in-the-middle-of-a-body-of-water-5jyjsMLeHJo",
+                   "authorName":  "Raathi Kugan",
+                   "authorProfile":  "https://unsplash.com/@raathi",
+                   "downloadedAt":  "2026-06-15T06:40:23.428Z"
+               },
+    "260618":  {
+                   "fileName":  "2026/06/daily_260618_pixabay-5287871.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5287871",
+                   "originalUrl":  "https://pixabay.com/photos/peacock-head-beak-eyes-feathers-5287871/",
+                   "authorName":  "Surprising_Media",
+                   "authorProfile":  "https://pixabay.com/users/Surprising_Media-11873433/",
+                   "downloadedAt":  "2026-06-15T06:40:28.021Z"
+               },
+    "260619":  {
+                   "fileName":  "2026/06/daily_260619_unsplash-15gSHLBnzEs.webp",
+                   "source":  "unsplash",
+                   "imageId":  "15gSHLBnzEs",
+                   "originalUrl":  "https://unsplash.com/photos/a-wooden-box-filled-with-apples-and-grapes-15gSHLBnzEs",
+                   "authorName":  "Didier VEILLON",
+                   "authorProfile":  "https://unsplash.com/@didpics",
+                   "downloadedAt":  "2026-06-15T06:40:32.414Z"
+               },
+    "260620":  {
+                   "fileName":  "2026/06/daily_260620_pixabay-3107041.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3107041",
+                   "originalUrl":  "https://pixabay.com/photos/lifestyle-bedroom-reside-3107041/",
+                   "authorName":  "PIRO4D",
+                   "authorProfile":  "https://pixabay.com/users/PIRO4D-2707530/",
+                   "downloadedAt":  "2026-06-15T06:40:36.958Z"
+               },
+    "260621":  {
+                   "fileName":  "2026/06/daily_260621_unsplash-s6D5sfyC25g.webp",
+                   "source":  "unsplash",
+                   "imageId":  "s6D5sfyC25g",
+                   "originalUrl":  "https://unsplash.com/photos/a-blurry-photo-of-a-bamboo-tree-s6D5sfyC25g",
+                   "authorName":  "Johannes Plenio",
+                   "authorProfile":  "https://unsplash.com/@jplenio",
+                   "downloadedAt":  "2026-06-15T06:40:40.664Z"
+               },
+    "260622":  {
+                   "fileName":  "2026/06/daily_260622_pixabay-4260630.webp",
+                   "source":  "pixabay",
+                   "imageId":  "4260630",
+                   "originalUrl":  "https://pixabay.com/photos/landscape-mountains-nature-scenic-4260630/",
+                   "authorName":  "fermiart",
+                   "authorProfile":  "https://pixabay.com/users/fermiart-12720601/",
+                   "downloadedAt":  "2026-06-15T06:40:45.148Z"
+               },
+    "260623":  {
+                   "fileName":  "2026/06/daily_260623_unsplash-gS37XxUa3fA.webp",
+                   "source":  "unsplash",
+                   "imageId":  "gS37XxUa3fA",
+                   "originalUrl":  "https://unsplash.com/photos/island-with-autumn-trees-reflected-in-calm-water-gS37XxUa3fA",
+                   "authorName":  "Andy Wang",
+                   "authorProfile":  "https://unsplash.com/@space_launch_system",
+                   "downloadedAt":  "2026-06-15T06:41:13.884Z"
+               },
+    "260624":  {
+                   "fileName":  "2026/06/daily_260624_pixabay-4757090.webp",
+                   "source":  "pixabay",
+                   "imageId":  "4757090",
+                   "originalUrl":  "https://pixabay.com/photos/koala-marsupial-herbivore-arboreal-4757090/",
+                   "authorName":  "pen_ash",
+                   "authorProfile":  "https://pixabay.com/users/pen_ash-5526837/",
+                   "downloadedAt":  "2026-06-15T06:41:19.867Z"
+               },
+    "260625":  {
+                   "fileName":  "2026/06/daily_260625_unsplash-45xYLfbewe8.webp",
+                   "source":  "unsplash",
+                   "imageId":  "45xYLfbewe8",
+                   "originalUrl":  "https://unsplash.com/photos/numerous-hot-air-balloons-drift-through-a-colorful-cloudy-sky-45xYLfbewe8",
+                   "authorName":  "AJ Alao",
+                   "authorProfile":  "https://unsplash.com/@ajalao",
+                   "downloadedAt":  "2026-06-15T06:41:24.780Z"
+               },
+    "260626":  {
+                   "fileName":  "2026/06/daily_260626_pixabay-5194553.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5194553",
+                   "originalUrl":  "https://pixabay.com/photos/sunflower-blossom-bloom-bright-5194553/",
+                   "authorName":  "schreti",
+                   "authorProfile":  "https://pixabay.com/users/schreti-3596173/",
+                   "downloadedAt":  "2026-06-15T06:41:30.687Z"
+               },
+    "260627":  {
+                   "fileName":  "2026/06/daily_260627_unsplash-eyGyeByOjig.webp",
+                   "source":  "unsplash",
+                   "imageId":  "eyGyeByOjig",
+                   "originalUrl":  "https://unsplash.com/photos/a-teddy-bear-wearing-a-blue-hat-eyGyeByOjig",
+                   "authorName":  "NIKLAS LINIGER",
+                   "authorProfile":  "https://unsplash.com/@nukdipuk",
+                   "downloadedAt":  "2026-06-15T06:41:35.533Z"
+               },
+    "260628":  {
+                   "fileName":  "2026/06/daily_260628_pixabay-2714970.webp",
+                   "source":  "pixabay",
+                   "imageId":  "2714970",
+                   "originalUrl":  "https://pixabay.com/photos/coffee-coffee-cup-cup-drink-beans-2714970/",
+                   "authorName":  "cocoparisienne",
+                   "authorProfile":  "https://pixabay.com/users/cocoparisienne-127419/",
+                   "downloadedAt":  "2026-06-15T06:41:40.949Z"
+               },
+    "260629":  {
+                   "fileName":  "2026/06/daily_260629_unsplash-wg3gzHc2dN8.webp",
+                   "source":  "unsplash",
+                   "imageId":  "wg3gzHc2dN8",
+                   "originalUrl":  "https://unsplash.com/photos/a-penguin-stands-on-an-icy-hill-with-snowy-mountains-wg3gzHc2dN8",
+                   "authorName":  "Jiayin Liu",
+                   "authorProfile":  "https://unsplash.com/@nyba66",
+                   "downloadedAt":  "2026-06-15T06:41:45.632Z"
+               },
+    "260630":  {
+                   "fileName":  "2026/06/daily_260630_pixabay-6170999.webp",
+                   "source":  "pixabay",
+                   "imageId":  "6170999",
+                   "originalUrl":  "https://pixabay.com/photos/butterfly-flowers-insects-petals-6170999/",
+                   "authorName":  "JuanDavid_Dev",
+                   "authorProfile":  "https://pixabay.com/users/JuanDavid_Dev-21112612/",
+                   "downloadedAt":  "2026-06-15T06:41:49.833Z"
+               },
+    "260702":  {
+                   "source":  "pixabay",
+                   "imageId":  "777612",
+                   "originalUrl":  "https://pixabay.com/photos/coffee-cup-still-life-3d-blender-777612/",
+                   "authorName":  "MasterTux",
+                   "authorProfile":  "https://pixabay.com/users/MasterTux-470906/",
+                   "downloadedAt":  "2026-07-08T15:49:19.714Z",
+                   "fileName":  "2026/07/daily_260702_pixabay-777612.webp"
+               },
+    "260703":  {
+                   "source":  "pixabay",
+                   "imageId":  "2228277",
+                   "originalUrl":  "https://pixabay.com/photos/hallway-corridor-entrance-2228277/",
+                   "authorName":  "PIRO4D",
+                   "authorProfile":  "https://pixabay.com/users/PIRO4D-2707530/",
+                   "downloadedAt":  "2026-07-08T15:48:58.172Z",
+                   "fileName":  "2026/07/daily_260703_pixabay-2228277.webp"
+               },
+    "260704":  {
+                   "source":  "pixabay",
+                   "imageId":  "7513815",
+                   "originalUrl":  "https://pixabay.com/photos/couch-sofa-lounge-living-room-7513815/",
+                   "authorName":  "AlexAntropov86",
+                   "authorProfile":  "https://pixabay.com/users/AlexAntropov86-2691829/",
+                   "downloadedAt":  "2026-07-08T15:48:30.250Z",
+                   "fileName":  "2026/07/daily_260704_pixabay-7513815.webp"
+               },
+    "260705":  {
+                   "source":  "pixabay",
+                   "imageId":  "3049543",
+                   "originalUrl":  "https://pixabay.com/photos/fantasy-floating-island-dream-3049543/",
+                   "authorName":  "xresch",
+                   "authorProfile":  "https://pixabay.com/users/xresch-7410129/",
+                   "downloadedAt":  "2026-06-15T16:12:34.577Z",
+                   "fileName":  "2026/07/daily_260705_pixabay-3049543.webp"
+               },
+    "260706":  {
+                   "fileName":  "2026/07/daily_260706_pixabay-5153517.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5153517",
+                   "originalUrl":  "https://pixabay.com/photos/signal-gamer-zone-area-players-5153517/",
+                   "authorName":  "p2722754",
+                   "authorProfile":  "https://pixabay.com/users/p2722754-15334846/",
+                   "downloadedAt":  "2026-06-15T16:03:45.114Z"
+               },
+    "260707":  {
+                   "fileName":  "2026/07/daily_260707_unsplash-zcDkupAH4wc.webp",
+                   "source":  "unsplash",
+                   "imageId":  "zcDkupAH4wc",
+                   "originalUrl":  "https://unsplash.com/photos/three-empty-clear-bottles-zcDkupAH4wc",
+                   "authorName":  "Daria Nepriakhina ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦",
+                   "authorProfile":  "https://unsplash.com/@epicantus",
+                   "downloadedAt":  "2026-06-15T16:03:55.363Z"
+               },
+    "260708":  {
+                   "fileName":  "2026/07/daily_260708_pixabay-7401119.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7401119",
+                   "originalUrl":  "https://pixabay.com/photos/lightning-storm-sky-cloud-mountain-7401119/",
+                   "authorName":  "gdmoonkiller",
+                   "authorProfile":  "https://pixabay.com/users/gdmoonkiller-4679220/",
+                   "downloadedAt":  "2026-06-15T16:04:02.415Z"
+               },
+    "260709":  {
+                   "fileName":  "2026/07/daily_260709_unsplash-t92CxZ9GR8I.webp",
+                   "source":  "unsplash",
+                   "imageId":  "t92CxZ9GR8I",
+                   "originalUrl":  "https://unsplash.com/photos/low-angle-photography-of-plane-near-clouds-t92CxZ9GR8I",
+                   "authorName":  "Andrew Ruiz",
+                   "authorProfile":  "https://unsplash.com/@andrewruiz",
+                   "downloadedAt":  "2026-06-15T16:07:15.400Z"
+               },
+    "260710":  {
+                   "fileName":  "2026/07/daily_260710_pixabay-3998252.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3998252",
+                   "originalUrl":  "https://pixabay.com/photos/book-love-heard-open-book-3998252/",
+                   "authorName":  "un-perfekt",
+                   "authorProfile":  "https://pixabay.com/users/un-perfekt-9295476/",
+                   "downloadedAt":  "2026-06-15T16:04:13.998Z"
+               },
+    "260711":  {
+                   "source":  "unsplash",
+                   "imageId":  "oIKXm-abcPo",
+                   "originalUrl":  "https://unsplash.com/photos/bioluminescent-jellyfish-glowing-in-dark-ocean-water-oIKXm-abcPo",
+                   "authorName":  "Erick Reyna",
+                   "authorProfile":  "https://unsplash.com/@erickueen",
+                   "downloadedAt":  "2026-06-15T16:10:02.233Z",
+                   "fileName":  "2026/07/daily_260711_unsplash-oIKXm-abcPo.webp"
+               },
+    "260712":  {
+                   "fileName":  "2026/07/daily_260712_pixabay-8153526.webp",
+                   "source":  "pixabay",
+                   "imageId":  "8153526",
+                   "originalUrl":  "https://pixabay.com/photos/universe-background-astronomy-8153526/",
+                   "authorName":  "vikashkr50",
+                   "authorProfile":  "https://pixabay.com/users/vikashkr50-35301037/",
+                   "downloadedAt":  "2026-06-15T16:04:26.016Z"
+               },
+    "260713":  {
+                   "fileName":  "2026/07/daily_260713_unsplash-igBJzvBevSo.webp",
+                   "source":  "unsplash",
+                   "imageId":  "igBJzvBevSo",
+                   "originalUrl":  "https://unsplash.com/photos/a-large-stone-structure-with-a-sky-in-the-background-igBJzvBevSo",
+                   "authorName":  "Cole Ciarlello",
+                   "authorProfile":  "https://unsplash.com/@cole_ciarlello",
+                   "downloadedAt":  "2026-06-15T16:04:34.897Z"
+               },
+    "260714":  {
+                   "fileName":  "2026/07/daily_260714_pixabay-6859274.webp",
+                   "source":  "pixabay",
+                   "imageId":  "6859274",
+                   "originalUrl":  "https://pixabay.com/photos/table-setting-holiday-christmas-6859274/",
+                   "authorName":  "jplenio",
+                   "authorProfile":  "https://pixabay.com/users/jplenio-7645255/",
+                   "downloadedAt":  "2026-06-15T16:04:43.278Z"
+               },
+    "260715":  {
+                   "source":  "unsplash",
+                   "imageId":  "DyHQdpA28zA",
+                   "originalUrl":  "https://unsplash.com/photos/a-small-yellow-creature-inside-a-wooden-shelter-in-snow-DyHQdpA28zA",
+                   "authorName":  "Nahmar Saeed",
+                   "authorProfile":  "https://unsplash.com/@nahmarsaeed",
+                   "downloadedAt":  "2026-07-08T15:49:39.418Z",
+                   "fileName":  "2026/07/daily_260715_unsplash-DyHQdpA28zA.webp"
+               },
+    "260716":  {
+                   "source":  "pixabay",
+                   "imageId":  "3357028",
+                   "originalUrl":  "https://pixabay.com/photos/architecture-corridor-modern-3357028/",
+                   "authorName":  "PIRO4D",
+                   "authorProfile":  "https://pixabay.com/users/PIRO4D-2707530/",
+                   "downloadedAt":  "2026-07-08T17:23:02.065Z",
+                   "fileName":  "2026/07/daily_260716_pixabay-3357028.webp"
+               },
+    "260717":  {
+                   "fileName":  "2026/07/daily_260717_unsplash-ZxsCUanD3Io.webp",
+                   "source":  "unsplash",
+                   "imageId":  "ZxsCUanD3Io",
+                   "originalUrl":  "https://unsplash.com/photos/cozy-log-cabin-living-room-with-fireplace-and-hot-tub-ZxsCUanD3Io",
+                   "authorName":  "Emine Nur C.",
+                   "authorProfile":  "https://unsplash.com/@eminenur",
+                   "downloadedAt":  "2026-06-15T16:07:27.021Z"
+               },
+    "260718":  {
+                   "fileName":  "2026/07/daily_260718_pixabay-7051311.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7051311",
+                   "originalUrl":  "https://pixabay.com/photos/books-old-stack-library-reading-7051311/",
+                   "authorName":  "svecaleksandr249",
+                   "authorProfile":  "https://pixabay.com/users/svecaleksandr249-25067918/",
+                   "downloadedAt":  "2026-06-15T16:05:11.215Z"
+               },
+    "260719":  {
+                   "fileName":  "2026/07/daily_260719_unsplash-LMPs-U9jgaE.webp",
+                   "source":  "unsplash",
+                   "imageId":  "LMPs-U9jgaE",
+                   "originalUrl":  "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-desk-LMPs-U9jgaE",
+                   "authorName":  "Jakub ÃÂÃÂÃÂÃÂ\u0085ÃÂÃÂÃÂÃÂ»erdzicki",
+                   "authorProfile":  "https://unsplash.com/@jakubzerdzicki",
+                   "downloadedAt":  "2026-06-15T16:05:20.561Z"
+               },
+    "260720":  {
+                   "fileName":  "2026/07/daily_260720_pixabay-7009700.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7009700",
+                   "originalUrl":  "https://pixabay.com/photos/still-life-window-rain-relaxation-7009700/",
+                   "authorName":  "guvo59",
+                   "authorProfile":  "https://pixabay.com/users/guvo59-9285194/",
+                   "downloadedAt":  "2026-06-15T16:05:28.603Z"
+               },
+    "260721":  {
+                   "fileName":  "2026/07/daily_260721_unsplash-WfPG9Wlqn3Y.webp",
+                   "source":  "unsplash",
+                   "imageId":  "WfPG9Wlqn3Y",
+                   "originalUrl":  "https://unsplash.com/photos/brown-wooden-house-on-snow-covered-ground-near-body-of-water-during-daytime-WfPG9Wlqn3Y",
+                   "authorName":  "adrianna geo",
+                   "authorProfile":  "https://unsplash.com/@adrigeo_",
+                   "downloadedAt":  "2026-06-15T16:05:39.142Z"
+               },
+    "260722":  {
+                   "fileName":  "2026/07/daily_260722_pixabay-1429817.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1429817",
+                   "originalUrl":  "https://pixabay.com/photos/bluebell-flower-plant-petals-1429817/",
+                   "authorName":  "TheUjulala",
+                   "authorProfile":  "https://pixabay.com/users/TheUjulala-59978/",
+                   "downloadedAt":  "2026-06-15T16:05:47.071Z"
+               },
+    "260723":  {
+                   "source":  "pixabay",
+                   "imageId":  "7135248",
+                   "originalUrl":  "https://pixabay.com/photos/digital-graphics-clip-art-7135248/",
+                   "authorName":  "Mollyroselee",
+                   "authorProfile":  "https://pixabay.com/users/Mollyroselee-9214707/",
+                   "downloadedAt":  "2026-07-08T18:35:54.385Z",
+                   "fileName":  "2026/07/daily_260723_pixabay-7135248.webp"
+               },
+    "260724":  {
+                   "fileName":  "2026/07/daily_260724_pixabay-1834501.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1834501",
+                   "originalUrl":  "https://pixabay.com/photos/letters-old-typewriter-vintage-1834501/",
+                   "authorName":  "Pexels",
+                   "authorProfile":  "https://pixabay.com/users/Pexels-2286921/",
+                   "downloadedAt":  "2026-06-15T16:06:03.381Z"
+               },
+    "260725":  {
+                   "fileName":  "2026/07/daily_260725_unsplash-Z8gSyHq9pdI.webp",
+                   "source":  "unsplash",
+                   "imageId":  "Z8gSyHq9pdI",
+                   "originalUrl":  "https://unsplash.com/photos/cozy-room-with-fairy-lights-and-snowy-window-view-Z8gSyHq9pdI",
+                   "authorName":  "Hanna Lazar",
+                   "authorProfile":  "https://unsplash.com/@potokvarte",
+                   "downloadedAt":  "2026-06-15T16:06:12.274Z"
+               },
+    "260726":  {
+                   "fileName":  "2026/07/daily_260726_pixabay-20983.webp",
+                   "source":  "pixabay",
+                   "imageId":  "20983",
+                   "originalUrl":  "https://pixabay.com/photos/abstract-art-background-bright-20983/",
+                   "authorName":  "PublicDomainPictures",
+                   "authorProfile":  "https://pixabay.com/users/PublicDomainPictures-14/",
+                   "downloadedAt":  "2026-06-15T16:06:20.084Z"
+               },
+    "260727":  {
+                   "fileName":  "2026/07/daily_260727_unsplash-4x6Qn0CHXDQ.webp",
+                   "source":  "unsplash",
+                   "imageId":  "4x6Qn0CHXDQ",
+                   "originalUrl":  "https://unsplash.com/photos/old-buildings-nestled-on-a-lush-green-hillside-4x6Qn0CHXDQ",
+                   "authorName":  "Sushanta Rokka",
+                   "authorProfile":  "https://unsplash.com/@sanoyatra",
+                   "downloadedAt":  "2026-06-15T16:06:29.122Z"
+               },
+    "260728":  {
+                   "fileName":  "2026/07/daily_260728_pixabay-1676197.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1676197",
+                   "originalUrl":  "https://pixabay.com/photos/interior-design-room-guest-1676197/",
+                   "authorName":  "hoalee268",
+                   "authorProfile":  "https://pixabay.com/users/hoalee268-3325017/",
+                   "downloadedAt":  "2026-06-15T16:06:36.162Z"
+               },
+    "260729":  {
+                   "fileName":  "2026/07/daily_260729_unsplash--sKEaoOXQDI.webp",
+                   "source":  "unsplash",
+                   "imageId":  "-sKEaoOXQDI",
+                   "originalUrl":  "https://unsplash.com/photos/a-body-of-water-with-mountains-in-the-back--sKEaoOXQDI",
+                   "authorName":  "Evan Klimchuk",
+                   "authorProfile":  "https://unsplash.com/@evanklimchuk",
+                   "downloadedAt":  "2026-06-15T16:06:46.949Z"
+               },
+    "260730":  {
+                   "fileName":  "2026/07/daily_260730_pixabay-1840481.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1840481",
+                   "originalUrl":  "https://pixabay.com/photos/art-brushes-colorful-paint-1840481/",
+                   "authorName":  "Pexels",
+                   "authorProfile":  "https://pixabay.com/users/Pexels-2286921/",
+                   "downloadedAt":  "2026-06-15T16:11:09.963Z"
+               },
+    "260731":  {
+                   "fileName":  "2026/07/daily_260731_unsplash-QrtMTpOoNLA.webp",
+                   "source":  "unsplash",
+                   "imageId":  "QrtMTpOoNLA",
+                   "originalUrl":  "https://unsplash.com/photos/a-path-in-the-middle-of-a-forest-filled-with-flowers-QrtMTpOoNLA",
+                   "authorName":  "Maksim Shutov",
+                   "authorProfile":  "https://unsplash.com/@maksimshutov",
+                   "downloadedAt":  "2026-06-15T16:07:04.003Z"
+               },
+    "260801":  {
+                   "fileName":  "2026/08/daily_260801_pixabay-777612.webp",
+                   "source":  "pixabay",
+                   "imageId":  "777612",
+                   "originalUrl":  "https://pixabay.com/photos/coffee-cup-still-life-3d-blender-777612/",
+                   "authorName":  "MasterTux",
+                   "authorProfile":  "https://pixabay.com/users/MasterTux-470906/",
+                   "downloadedAt":  "2026-06-15T15:57:59.720Z"
+               },
+    "260802":  {
+                   "fileName":  "2026/08/daily_260802_pixabay-1934831.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1934831",
+                   "originalUrl":  "https://pixabay.com/photos/deer-evening-nature-photoshop-1934831/",
+                   "authorName":  "thommas68",
+                   "authorProfile":  "https://pixabay.com/users/thommas68-2571842/",
+                   "downloadedAt":  "2026-06-15T15:58:06.982Z"
+               },
+    "260803":  {
+                   "fileName":  "2026/08/daily_260803_pixabay-398966.webp",
+                   "source":  "pixabay",
+                   "imageId":  "398966",
+                   "originalUrl":  "https://pixabay.com/photos/orange-cake-dessert-pastry-food-398966/",
+                   "authorName":  "JESHOOTS-com",
+                   "authorProfile":  "https://pixabay.com/users/JESHOOTS-com-264599/",
+                   "downloadedAt":  "2026-06-15T15:58:15.460Z"
+               },
+    "260804":  {
+                   "fileName":  "2026/08/daily_260804_pixabay-2607193.webp",
+                   "source":  "pixabay",
+                   "imageId":  "2607193",
+                   "originalUrl":  "https://pixabay.com/photos/apples-fruits-basket-woven-food-2607193/",
+                   "authorName":  "StockSnap",
+                   "authorProfile":  "https://pixabay.com/users/StockSnap-894430/",
+                   "downloadedAt":  "2026-06-15T15:58:24.161Z"
+               },
+    "260805":  {
+                   "fileName":  "2026/08/daily_260805_pixabay-1601124.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1601124",
+                   "originalUrl":  "https://pixabay.com/photos/macaron-candy-french-1601124/",
+                   "authorName":  "mcbraga_",
+                   "authorProfile":  "https://pixabay.com/users/mcbraga_-3118991/",
+                   "downloadedAt":  "2026-06-15T15:58:34.067Z"
+               },
+    "260806":  {
+                   "fileName":  "2026/08/daily_260806_pixabay-5641462.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5641462",
+                   "originalUrl":  "https://pixabay.com/photos/cup-marshmallows-cinnamon-stick-5641462/",
+                   "authorName":  "Ylanite",
+                   "authorProfile":  "https://pixabay.com/users/Ylanite-2218222/",
+                   "downloadedAt":  "2026-06-15T15:58:43.845Z"
+               },
+    "260807":  {
+                   "fileName":  "2026/08/daily_260807_pixabay-5479993.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5479993",
+                   "originalUrl":  "https://pixabay.com/photos/apple-pie-dough-apple-cake-dessert-5479993/",
+                   "authorName":  "Einladung_zum_Essen",
+                   "authorProfile":  "https://pixabay.com/users/Einladung_zum_Essen-3625323/",
+                   "downloadedAt":  "2026-06-15T15:58:53.271Z"
+               },
+    "260808":  {
+                   "fileName":  "2026/08/daily_260808_pixabay-1155132.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1155132",
+                   "originalUrl":  "https://pixabay.com/photos/meat-food-protein-shish-kebab-1155132/",
+                   "authorName":  "vika-imperia550",
+                   "authorProfile":  "https://pixabay.com/users/vika-imperia550-851270/",
+                   "downloadedAt":  "2026-06-15T15:59:01.594Z"
+               },
+    "260809":  {
+                   "fileName":  "2026/08/daily_260809_pixabay-8306677.webp",
+                   "source":  "pixabay",
+                   "imageId":  "8306677",
+                   "originalUrl":  "https://pixabay.com/photos/apples-apple-tree-ripe-apples-8306677/",
+                   "authorName":  "jhenning",
+                   "authorProfile":  "https://pixabay.com/users/jhenning-8658480/",
+                   "downloadedAt":  "2026-06-15T15:59:11.654Z"
+               },
+    "260810":  {
+                   "fileName":  "2026/08/daily_260810_pixabay-8419128.webp",
+                   "source":  "pixabay",
+                   "imageId":  "8419128",
+                   "originalUrl":  "https://pixabay.com/photos/cupcake-cake-dessert-food-sweet-8419128/",
+                   "authorName":  "TastyLens",
+                   "authorProfile":  "https://pixabay.com/users/TastyLens-39583042/",
+                   "downloadedAt":  "2026-06-15T15:59:20.091Z"
+               },
+    "260811":  {
+                   "fileName":  "2026/08/daily_260811_pixabay-1799557.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1799557",
+                   "originalUrl":  "https://pixabay.com/photos/colorado-fall-leaves-mountains-fall-1799557/",
+                   "authorName":  "theblckwlf",
+                   "authorProfile":  "https://pixabay.com/users/theblckwlf-3689085/",
+                   "downloadedAt":  "2026-06-15T15:59:31.197Z"
+               },
+    "260812":  {
+                   "fileName":  "2026/08/daily_260812_pixabay-1681485.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1681485",
+                   "originalUrl":  "https://pixabay.com/photos/lake-mountains-hut-mountain-lake-1681485/",
+                   "authorName":  "TeeFarm",
+                   "authorProfile":  "https://pixabay.com/users/TeeFarm-199315/",
+                   "downloadedAt":  "2026-06-15T15:59:40.486Z"
+               },
+    "260813":  {
+                   "fileName":  "2026/08/daily_260813_pixabay-1208808.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1208808",
+                   "originalUrl":  "https://pixabay.com/photos/sunset-dock-florida-tropical-sky-1208808/",
+                   "authorName":  "Michelle-Maria",
+                   "authorProfile":  "https://pixabay.com/users/Michelle-Maria-165491/",
+                   "downloadedAt":  "2026-06-15T15:59:48.338Z"
+               },
+    "260814":  {
+                   "fileName":  "2026/08/daily_260814_pixabay-2320612.webp",
+                   "source":  "pixabay",
+                   "imageId":  "2320612",
+                   "originalUrl":  "https://pixabay.com/photos/fantasy-fairy-tale-elf-composing-2320612/",
+                   "authorName":  "KELLEPICS",
+                   "authorProfile":  "https://pixabay.com/users/KELLEPICS-4893063/",
+                   "downloadedAt":  "2026-06-15T15:59:56.062Z"
+               },
+    "260815":  {
+                   "fileName":  "2026/08/daily_260815_unsplash-o0MqWQwS6ww.webp",
+                   "source":  "unsplash",
+                   "imageId":  "o0MqWQwS6ww",
+                   "originalUrl":  "https://unsplash.com/photos/sunlight-peeks-through-a-bamboo-forest-and-trees-o0MqWQwS6ww",
+                   "authorName":  "Balooon69",
+                   "authorProfile":  "https://unsplash.com/@balooon69",
+                   "downloadedAt":  "2026-06-15T16:00:04.424Z"
+               },
+    "260816":  {
+                   "fileName":  "2026/08/daily_260816_pixabay-218591.webp",
+                   "source":  "pixabay",
+                   "imageId":  "218591",
+                   "originalUrl":  "https://pixabay.com/photos/niagara-falls-waterfall-water-power-218591/",
+                   "authorName":  "urformat",
+                   "authorProfile":  "https://pixabay.com/users/urformat-82710/",
+                   "downloadedAt":  "2026-06-15T16:00:13.263Z"
+               },
+    "260817":  {
+                   "fileName":  "2026/08/daily_260817_unsplash-40Dwl-5VwtU.webp",
+                   "source":  "unsplash",
+                   "imageId":  "40Dwl-5VwtU",
+                   "originalUrl":  "https://unsplash.com/photos/field-of-sunflowers-at-sunset-with-warm-light-40Dwl-5VwtU",
+                   "authorName":  "Fethi Benattallah",
+                   "authorProfile":  "https://unsplash.com/@fethibenattallah",
+                   "downloadedAt":  "2026-06-15T16:00:21.094Z"
+               },
+    "260818":  {
+                   "fileName":  "2026/08/daily_260818_pixabay-4021971.webp",
+                   "source":  "pixabay",
+                   "imageId":  "4021971",
+                   "originalUrl":  "https://pixabay.com/photos/field-horizon-lavender-dawn-nature-4021971/",
+                   "authorName":  "TanyaKurt",
+                   "authorProfile":  "https://pixabay.com/users/TanyaKurt-11725125/",
+                   "downloadedAt":  "2026-06-15T16:00:31.021Z"
+               },
+    "260819":  {
+                   "fileName":  "2026/08/daily_260819_unsplash-sMhO-Beh_SM.webp",
+                   "source":  "unsplash",
+                   "imageId":  "sMhO-Beh_SM",
+                   "originalUrl":  "https://unsplash.com/photos/a-blue-fish-is-swimming-on-a-coral-reef-sMhO-Beh_SM",
+                   "authorName":  "Martin Hayes",
+                   "authorProfile":  "https://unsplash.com/@madh1969",
+                   "downloadedAt":  "2026-06-15T16:00:39.418Z"
+               },
+    "260820":  {
+                   "fileName":  "2026/08/daily_260820_pixabay-1535201.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1535201",
+                   "originalUrl":  "https://pixabay.com/photos/christmas-background-fog-forest-1535201/",
+                   "authorName":  "LUM3N",
+                   "authorProfile":  "https://pixabay.com/users/LUM3N-1066559/",
+                   "downloadedAt":  "2026-06-15T16:00:47.206Z"
+               },
+    "260821":  {
+                   "fileName":  "2026/08/daily_260821_unsplash-PWf-Dr2qpOo.webp",
+                   "source":  "unsplash",
+                   "imageId":  "PWf-Dr2qpOo",
+                   "originalUrl":  "https://unsplash.com/photos/black-textile-PWf-Dr2qpOo",
+                   "authorName":  "Mikk TÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµnissoo",
+                   "authorProfile":  "https://unsplash.com/@themikk",
+                   "downloadedAt":  "2026-06-15T16:00:55.350Z"
+               },
+    "260822":  {
+                   "fileName":  "2026/08/daily_260822_pixabay-4069596.webp",
+                   "source":  "pixabay",
+                   "imageId":  "4069596",
+                   "originalUrl":  "https://pixabay.com/photos/cherry-blossoms-branch-pink-spring-4069596/",
+                   "authorName":  "165106",
+                   "authorProfile":  "https://pixabay.com/users/165106-165106/",
+                   "downloadedAt":  "2026-06-15T16:01:03.239Z"
+               },
+    "260823":  {
+                   "fileName":  "2026/08/daily_260823_unsplash-KJ1ida5X2hg.webp",
+                   "source":  "unsplash",
+                   "imageId":  "KJ1ida5X2hg",
+                   "originalUrl":  "https://unsplash.com/photos/high-angle-photo-of-trees-KJ1ida5X2hg",
+                   "authorName":  "Krisztian Tabori",
+                   "authorProfile":  "https://unsplash.com/@ktabori",
+                   "downloadedAt":  "2026-06-15T16:01:10.952Z"
+               },
+    "260824":  {
+                   "fileName":  "2026/08/daily_260824_pixabay-5947608.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5947608",
+                   "originalUrl":  "https://pixabay.com/photos/northern-lights-aurora-borealis-5947608/",
+                   "authorName":  "NicoBecker59",
+                   "authorProfile":  "https://pixabay.com/users/NicoBecker59-19845444/",
+                   "downloadedAt":  "2026-06-15T16:01:20.638Z"
+               },
+    "260825":  {
+                   "fileName":  "2026/08/daily_260825_unsplash-FcwFepgo3DI.webp",
+                   "source":  "unsplash",
+                   "imageId":  "FcwFepgo3DI",
+                   "originalUrl":  "https://unsplash.com/photos/a-canyon-with-a-river-running-through-it-FcwFepgo3DI",
+                   "authorName":  "nixon",
+                   "authorProfile":  "https://unsplash.com/@realview",
+                   "downloadedAt":  "2026-06-15T16:01:28.182Z"
+               },
+    "260826":  {
+                   "fileName":  "2026/08/daily_260826_pixabay-7381618.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7381618",
+                   "originalUrl":  "https://pixabay.com/photos/subway-metro-tunnel-lights-urban-7381618/",
+                   "authorName":  "Photos_by_Paul",
+                   "authorProfile":  "https://pixabay.com/users/Photos_by_Paul-28288357/",
+                   "downloadedAt":  "2026-06-15T16:01:36.192Z"
+               },
+    "260827":  {
+                   "fileName":  "2026/08/daily_260827_unsplash-bP4ZcP1KgGc.webp",
+                   "source":  "unsplash",
+                   "imageId":  "bP4ZcP1KgGc",
+                   "originalUrl":  "https://unsplash.com/photos/a-close-up-of-rocks-and-water-in-a-body-of-water-bP4ZcP1KgGc",
+                   "authorName":  "Cande Westh",
+                   "authorProfile":  "https://unsplash.com/@candegrapher",
+                   "downloadedAt":  "2026-06-15T16:01:43.646Z"
+               },
+    "260828":  {
+                   "fileName":  "2026/08/daily_260828_pixabay-3579931.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3579931",
+                   "originalUrl":  "https://pixabay.com/photos/sunrise-wind-farm-wind-park-3579931/",
+                   "authorName":  "Myriams-Fotos",
+                   "authorProfile":  "https://pixabay.com/users/Myriams-Fotos-1627417/",
+                   "downloadedAt":  "2026-06-15T16:01:51.575Z"
+               },
+    "260829":  {
+                   "fileName":  "2026/08/daily_260829_unsplash-69Hdb0II9Jo.webp",
+                   "source":  "unsplash",
+                   "imageId":  "69Hdb0II9Jo",
+                   "originalUrl":  "https://unsplash.com/photos/green-field-surrounded-with-tall-and-green-trees-during-daytime-69Hdb0II9Jo",
+                   "authorName":  "James Fitzgerald",
+                   "authorProfile":  "https://unsplash.com/@reallygoodjames",
+                   "downloadedAt":  "2026-06-15T16:02:01.530Z"
+               },
+    "260830":  {
+                   "fileName":  "2026/08/daily_260830_pixabay-10185991.webp",
+                   "source":  "pixabay",
+                   "imageId":  "10185991",
+                   "originalUrl":  "https://pixabay.com/photos/italy-nature-sky-bell-tower-10185991/",
+                   "authorName":  "manri1965",
+                   "authorProfile":  "https://pixabay.com/users/manri1965-51697187/",
+                   "downloadedAt":  "2026-06-15T16:02:08.871Z"
+               },
+    "260831":  {
+                   "fileName":  "2026/08/daily_260831_unsplash-jHGxoHhN000.webp",
+                   "source":  "unsplash",
+                   "imageId":  "jHGxoHhN000",
+                   "originalUrl":  "https://unsplash.com/photos/body-of-water-beside-cliff-jHGxoHhN000",
+                   "authorName":  "Roman BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rki",
+                   "authorProfile":  "https://unsplash.com/@romanleandro",
+                   "downloadedAt":  "2026-06-15T16:02:16.329Z"
+               },
+    "260901":  {
+                   "fileName":  "2026/09/daily_260901_unsplash-Xq8Q4_n-ZCM.webp",
+                   "source":  "unsplash",
+                   "imageId":  "Xq8Q4_n-ZCM",
+                   "originalUrl":  "https://unsplash.com/photos/brown-rocks-on-green-grass-near-body-of-water-during-daytime-Xq8Q4_n-ZCM",
+                   "authorName":  "Fuu J",
+                   "authorProfile":  "https://unsplash.com/@fuuj",
+                   "downloadedAt":  "2026-06-15T16:13:19.416Z"
+               },
+    "260902":  {
+                   "fileName":  "2026/09/daily_260902_pixabay-1907859.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1907859",
+                   "originalUrl":  "https://pixabay.com/photos/winter-landscape-snow-trees-1907859/",
+                   "authorName":  "AlainAudet",
+                   "authorProfile":  "https://pixabay.com/users/AlainAudet-631535/",
+                   "downloadedAt":  "2026-06-15T16:13:26.570Z"
+               },
+    "260903":  {
+                   "fileName":  "2026/09/daily_260903_unsplash-nD9tEn63suc.webp",
+                   "source":  "unsplash",
+                   "imageId":  "nD9tEn63suc",
+                   "originalUrl":  "https://unsplash.com/photos/purple-flower-field-under-white-sky-during-daytime-nD9tEn63suc",
+                   "authorName":  "Antony BEC",
+                   "authorProfile":  "https://unsplash.com/@antony_bec",
+                   "downloadedAt":  "2026-06-15T16:13:32.446Z"
+               },
+    "260904":  {
+                   "fileName":  "2026/09/daily_260904_pixabay-5870088.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5870088",
+                   "originalUrl":  "https://pixabay.com/photos/coast-sea-fog-rocky-rocky-coast-5870088/",
+                   "authorName":  "BernhardJaeck",
+                   "authorProfile":  "https://pixabay.com/users/BernhardJaeck-15593888/",
+                   "downloadedAt":  "2026-06-15T16:16:53.760Z"
+               },
+    "260905":  {
+                   "fileName":  "2026/09/daily_260905_pixabay-779827.webp",
+                   "source":  "pixabay",
+                   "imageId":  "779827",
+                   "originalUrl":  "https://pixabay.com/photos/autumn-leaves-trees-path-trail-779827/",
+                   "authorName":  "Hans",
+                   "authorProfile":  "https://pixabay.com/users/Hans-2/",
+                   "downloadedAt":  "2026-06-15T16:24:29.240Z"
+               },
+    "260906":  {
+                   "fileName":  "2026/09/daily_260906_pixabay-7533717.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7533717",
+                   "originalUrl":  "https://pixabay.com/photos/cat-pet-animal-domestic-feline-7533717/",
+                   "authorName":  "yacubee",
+                   "authorProfile":  "https://pixabay.com/users/yacubee-14626989/",
+                   "downloadedAt":  "2026-06-15T16:17:08.726Z"
+               },
+    "260907":  {
+                   "fileName":  "2026/09/daily_260907_pixabay-10105348.webp",
+                   "source":  "pixabay",
+                   "imageId":  "10105348",
+                   "originalUrl":  "https://pixabay.com/photos/dragon-fantasy-mythology-colorful-10105348/",
+                   "authorName":  "Robo-Art",
+                   "authorProfile":  "https://pixabay.com/users/Robo-Art-54479415/",
+                   "downloadedAt":  "2026-06-15T16:24:39.434Z"
+               },
+    "260908":  {
+                   "fileName":  "2026/09/daily_260908_pixabay-6843881.webp",
+                   "source":  "pixabay",
+                   "imageId":  "6843881",
+                   "originalUrl":  "https://pixabay.com/photos/lamps-lanterns-candles-6843881/",
+                   "authorName":  "SoyKhaler",
+                   "authorProfile":  "https://pixabay.com/users/SoyKhaler-6351521/",
+                   "downloadedAt":  "2026-06-15T16:24:46.105Z"
+               },
+    "260909":  {
+                   "fileName":  "2026/09/daily_260909_pixabay-7304564.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7304564",
+                   "originalUrl":  "https://pixabay.com/photos/lavender-field-purple-flowering-7304564/",
+                   "authorName":  "katerinavulcova",
+                   "authorProfile":  "https://pixabay.com/users/katerinavulcova-7453549/",
+                   "downloadedAt":  "2026-06-15T16:24:53.909Z"
+               },
+    "260910":  {
+                   "fileName":  "2026/09/daily_260910_pixabay-9534768.webp",
+                   "source":  "pixabay",
+                   "imageId":  "9534768",
+                   "originalUrl":  "https://pixabay.com/photos/peacock-bird-plumage-multicoloured-9534768/",
+                   "authorName":  "Vario545",
+                   "authorProfile":  "https://pixabay.com/users/Vario545-6936851/",
+                   "downloadedAt":  "2026-06-15T16:14:18.124Z"
+               },
+    "260911":  {
+                   "fileName":  "2026/09/daily_260911_unsplash-D7E7lfIn5IE.webp",
+                   "source":  "unsplash",
+                   "imageId":  "D7E7lfIn5IE",
+                   "originalUrl":  "https://unsplash.com/photos/a-yellow-butterfly-sitting-on-top-of-a-flower-D7E7lfIn5IE",
+                   "authorName":  "Randy Lisciarelli",
+                   "authorProfile":  "https://unsplash.com/@verapax",
+                   "downloadedAt":  "2026-06-15T16:14:23.780Z"
+               },
+    "260912":  {
+                   "fileName":  "2026/09/daily_260912_pixabay-5599375.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5599375",
+                   "originalUrl":  "https://pixabay.com/photos/aurora-borealis-lake-snow-aurora-5599375/",
+                   "authorName":  "kamilgrygo",
+                   "authorProfile":  "https://pixabay.com/users/kamilgrygo-17873345/",
+                   "downloadedAt":  "2026-06-15T16:25:00.950Z"
+               },
+    "260913":  {
+                   "fileName":  "2026/09/daily_260913_unsplash-i3F-UdMfLlo.webp",
+                   "source":  "unsplash",
+                   "imageId":  "i3F-UdMfLlo",
+                   "originalUrl":  "https://unsplash.com/photos/a-bird-flies-over-a-snowy-mountain-landscape-i3F-UdMfLlo",
+                   "authorName":  "Matthew Stephenson",
+                   "authorProfile":  "https://unsplash.com/@matthewryanstephenson",
+                   "downloadedAt":  "2026-06-15T16:14:35.857Z"
+               },
+    "260914":  {
+                   "fileName":  "2026/09/daily_260914_pixabay-1046693.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1046693",
+                   "originalUrl":  "https://pixabay.com/photos/heart-balloon-sky-love-red-balloon-1046693/",
+                   "authorName":  "Peggy_Marco",
+                   "authorProfile":  "https://pixabay.com/users/Peggy_Marco-1553824/",
+                   "downloadedAt":  "2026-06-15T16:25:08.125Z"
+               },
+    "260915":  {
+                   "fileName":  "2026/09/daily_260915_unsplash-HAK9lNyTUzg.webp",
+                   "source":  "unsplash",
+                   "imageId":  "HAK9lNyTUzg",
+                   "originalUrl":  "https://unsplash.com/photos/waves-crashing-on-a-beach-HAK9lNyTUzg",
+                   "authorName":  "Duane Keaton",
+                   "authorProfile":  "https://unsplash.com/@greenblanketmedia",
+                   "downloadedAt":  "2026-06-15T16:14:47.864Z"
+               },
+    "260916":  {
+                   "fileName":  "2026/09/daily_260916_pixabay-2443699.webp",
+                   "source":  "pixabay",
+                   "imageId":  "2443699",
+                   "originalUrl":  "https://pixabay.com/photos/red-wine-glasses-log-fire-red-wine-2443699/",
+                   "authorName":  "stevepb",
+                   "authorProfile":  "https://pixabay.com/users/stevepb-282134/",
+                   "downloadedAt":  "2026-06-15T16:14:53.618Z"
+               },
+    "260917":  {
+                   "fileName":  "2026/09/daily_260917_unsplash-XwBv7X4ZXIg.webp",
+                   "source":  "unsplash",
+                   "imageId":  "XwBv7X4ZXIg",
+                   "originalUrl":  "https://unsplash.com/photos/a-stag-with-large-antlers-stands-in-thick-fog-XwBv7X4ZXIg",
+                   "authorName":  "Matthieu Rochette",
+                   "authorProfile":  "https://unsplash.com/@matthieur68",
+                   "downloadedAt":  "2026-06-15T16:14:58.860Z"
+               },
+    "260918":  {
+                   "fileName":  "2026/09/daily_260918_pixabay-5749914.webp",
+                   "source":  "pixabay",
+                   "imageId":  "5749914",
+                   "originalUrl":  "https://pixabay.com/photos/fallow-deer-animal-forest-deer-5749914/",
+                   "authorName":  "RickDekker",
+                   "authorProfile":  "https://pixabay.com/users/RickDekker-19139509/",
+                   "downloadedAt":  "2026-06-15T16:15:04.756Z"
+               },
+    "260919":  {
+                   "fileName":  "2026/09/daily_260919_pixabay-7604917.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7604917",
+                   "originalUrl":  "https://pixabay.com/photos/winter-frost-leaf-leaves-fall-7604917/",
+                   "authorName":  "Lolame",
+                   "authorProfile":  "https://pixabay.com/users/Lolame-37761/",
+                   "downloadedAt":  "2026-06-15T16:17:44.743Z"
+               },
+    "260920":  {
+                   "fileName":  "2026/09/daily_260920_pixabay-7148194.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7148194",
+                   "originalUrl":  "https://pixabay.com/photos/birds-swan-ornithology-species-7148194/",
+                   "authorName":  "onkelglocke",
+                   "authorProfile":  "https://pixabay.com/users/onkelglocke-12931647/",
+                   "downloadedAt":  "2026-06-15T16:15:15.970Z"
+               },
+    "260921":  {
+                   "fileName":  "2026/09/daily_260921_unsplash-nvrsXlVWpP4.webp",
+                   "source":  "unsplash",
+                   "imageId":  "nvrsXlVWpP4",
+                   "originalUrl":  "https://unsplash.com/photos/two-green-parrots-perched-on-a-tree-branch-nvrsXlVWpP4",
+                   "authorName":  "Kevin Aicardi",
+                   "authorProfile":  "https://unsplash.com/@kevinacrd",
+                   "downloadedAt":  "2026-06-15T16:15:22.682Z"
+               },
+    "260922":  {
+                   "fileName":  "2026/09/daily_260922_pixabay-7970677.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7970677",
+                   "originalUrl":  "https://pixabay.com/photos/desert-sunrise-fog-horizon-haze-7970677/",
+                   "authorName":  "Tho-Ge",
+                   "authorProfile":  "https://pixabay.com/users/Tho-Ge-113537/",
+                   "downloadedAt":  "2026-06-15T16:15:27.974Z"
+               },
+    "260923":  {
+                   "fileName":  "2026/09/daily_260923_unsplash-3Pzz1_TyQFg.webp",
+                   "source":  "unsplash",
+                   "imageId":  "3Pzz1_TyQFg",
+                   "originalUrl":  "https://unsplash.com/photos/green-meadow-with-pine-trees-and-distant-mountains-3Pzz1_TyQFg",
+                   "authorName":  "Anna Blake",
+                   "authorProfile":  "https://unsplash.com/@blake_a",
+                   "downloadedAt":  "2026-06-15T16:15:34.022Z"
+               },
+    "260924":  {
+                   "fileName":  "2026/09/daily_260924_pixabay-3795396.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3795396",
+                   "originalUrl":  "https://pixabay.com/photos/squirrel-squirrel-eating-nuts-3795396/",
+                   "authorName":  "semiproflyfishing",
+                   "authorProfile":  "https://pixabay.com/users/semiproflyfishing-10515389/",
+                   "downloadedAt":  "2026-06-15T16:25:57.593Z"
+               },
+    "260925":  {
+                   "fileName":  "2026/09/daily_260925_pixabay-6833167.webp",
+                   "source":  "pixabay",
+                   "imageId":  "6833167",
+                   "originalUrl":  "https://pixabay.com/photos/city-travel-tourism-road-cars-6833167/",
+                   "authorName":  "Bruzzzzz",
+                   "authorProfile":  "https://pixabay.com/users/Bruzzzzz-24578254/",
+                   "downloadedAt":  "2026-06-15T16:15:45.550Z"
+               },
+    "260926":  {
+                   "fileName":  "2026/09/daily_260926_pixabay-7516293.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7516293",
+                   "originalUrl":  "https://pixabay.com/photos/ai-generated-fantasy-fairy-tale-fog-7516293/",
+                   "authorName":  "Alan_Frijns",
+                   "authorProfile":  "https://pixabay.com/users/Alan_Frijns-16705522/",
+                   "downloadedAt":  "2026-06-15T16:15:52.353Z"
+               },
+    "260927":  {
+                   "fileName":  "2026/09/daily_260927_pixabay-1868299.webp",
+                   "source":  "pixabay",
+                   "imageId":  "1868299",
+                   "originalUrl":  "https://pixabay.com/photos/snow-mountains-panorama-panoramic-1868299/",
+                   "authorName":  "Pexels",
+                   "authorProfile":  "https://pixabay.com/users/Pexels-2286921/",
+                   "downloadedAt":  "2026-06-15T16:15:57.141Z"
+               },
+    "260928":  {
+                   "fileName":  "2026/09/daily_260928_pixabay-3175321.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3175321",
+                   "originalUrl":  "https://pixabay.com/photos/castle-flying-island-flying-castle-3175321/",
+                   "authorName":  "Sunriseforever",
+                   "authorProfile":  "https://pixabay.com/users/Sunriseforever-6314823/",
+                   "downloadedAt":  "2026-06-15T16:16:04.201Z"
+               },
+    "260929":  {
+                   "fileName":  "2026/09/daily_260929_pixabay-3116883.webp",
+                   "source":  "pixabay",
+                   "imageId":  "3116883",
+                   "originalUrl":  "https://pixabay.com/photos/park-bench-night-evening-fog-mist-3116883/",
+                   "authorName":  "Arcaion",
+                   "authorProfile":  "https://pixabay.com/users/Arcaion-2057886/",
+                   "downloadedAt":  "2026-06-15T16:16:09.664Z"
+               },
+    "260930":  {
+                   "fileName":  "2026/09/daily_260930_pixabay-7816608.webp",
+                   "source":  "pixabay",
+                   "imageId":  "7816608",
+                   "originalUrl":  "https://pixabay.com/photos/book-spectacles-potion-spell-7816608/",
+                   "authorName":  "aetaylor",
+                   "authorProfile":  "https://pixabay.com/users/aetaylor-2497217/",
+                   "downloadedAt":  "2026-06-15T16:16:15.560Z"
+               },
+    "260701":  {
+                   "fileName":  "2026/07/daily_260701_ai-forest-treehouse-d3d0c0.webp",
+                   "source":  "ai",
+                   "imageId":  "ai-d3d0c0",
+                   "theme":  "Forest Worlds",
+                   "subtheme":  "treehouse bridge",
+                   "style":  "whimsical storybook realism, watercolor and gouache",
+                   "prompt":  "A charming forest treehouse crossing above a fern creek, with a warm wooden treehouse and rope bridge as the main subject; layered forest landmarks; exactly one subtle in-world PlayJigsaw.net maker plate.",
+                   "negativePrompt":  "other readable text, misspelled text, duplicate mark, floating text, logo, signature, UI, border, conventional watermark, dense clutter, heavy blur, low contrast",
+                   "model":  "Codex built-in image generation",
+                   "seed":  "2026-07-01-forest-treehouse-bridge",
+                   "promptVersion":  "daily-v1-production-rules",
+                   "originalUrl":  "",
+                   "authorName":  "AI Generated",
+                   "authorProfile":  "",
+                   "qaStatus":  "passed",
+                   "qaScore":  91,
+                   "qaChecks":  {
+                                    "aspectRatio":  "passed",
+                                    "minResolution":  "passed",
+                                    "fileSize":  "passed",
+                                    "diegeticBrandMark":  "passed",
+                                    "composition":  "passed",
+                                    "duplicate":  "passed"
+                                },
+                   "qaNotes":  "Confirmed candidate 2 by user. Exactly one readable PlayJigsaw.net diegetic maker plate. Final WebP 1280x960, 406326 bytes.",
+                   "width":  1280,
+                   "height":  960,
+                   "fileSize":  406326,
+                   "imageHash":  "sha256-d3d0c0d7a1fd0a3ebeaefd97404a08268873234db2b8ad25aa7fbfeaf992545d",
+                   "downloadedAt":  "2026-07-13T16:13:43.2298268Z",
+                   "publishedAt":  "2026-07-13T16:13:43.2323436Z"
+               }
 }
