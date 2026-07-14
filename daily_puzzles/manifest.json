@@ -4114,5 +4114,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261103": {
+    "fileName": "2026/11/daily_261103_ai-toast-jam-breakfast-ebade5d0bb.webp",
+    "source": "ai",
+    "imageId": "ai-261103",
+    "theme": "Morning Food",
+    "subtheme": "toast and jam with juice and fruit, simple morning table",
+    "style": "whimsical watercolor",
+    "prompt": "Breakfast table with toast, jam jar blank label, juice, fruit and butter dish; one subtle PlayJigsaw.net on butter dish rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
