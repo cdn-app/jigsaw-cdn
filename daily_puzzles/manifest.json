@@ -4088,5 +4088,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261102": {
+    "fileName": "2026/11/daily_261102_ai-smoothie-snack-counter-02a1328324.webp",
+    "source": "ai",
+    "imageId": "ai-261102",
+    "theme": "Fruits & Snacks",
+    "subtheme": "smoothie counter with blender, fruit halves, snack tray, reusable straw cup",
+    "style": "clean isometric 3D cartoon",
+    "prompt": "Smoothie counter with blender, fruit, snack tray and reusable cup; one subtle PlayJigsaw.net on mint coaster.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
