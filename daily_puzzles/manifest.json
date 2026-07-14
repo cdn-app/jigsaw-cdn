@@ -4244,5 +4244,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261108": {
+    "fileName": "2026/11/daily_261108_ai-sewing-textiles-91b855a953.webp",
+    "source": "ai",
+    "imageId": "ai-261108",
+    "theme": "Sewing & Textiles",
+    "subtheme": "buttons and embroidery hoop with fabric swatches, sewing basket, mending kit",
+    "style": "whimsical watercolor",
+    "prompt": "Sewing table with embroidery hoop, button bowls, fabric swatches, thread spools and scissors; one PlayJigsaw.net stitched along teal swatch edge.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
