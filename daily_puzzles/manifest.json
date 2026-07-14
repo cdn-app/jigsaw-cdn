@@ -4192,5 +4192,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261106": {
+    "fileName": "2026/11/daily_261106_ai-laundry-drying-rack-82c8490c5f.webp",
+    "source": "ai",
+    "imageId": "ai-261106",
+    "theme": "Laundry & Clothes Care",
+    "subtheme": "drying rack with folded towels, clothespins, laundry basket, blank spray bottle",
+    "style": "cozy digital painting",
+    "prompt": "Laundry corner with drying rack, folded towels, clothespins, basket and blank spray bottle; one subtle PlayJigsaw.net on clothespin bowl.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
