@@ -3776,5 +3776,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261021": {
+    "fileName": "2026/10/daily_261021_ai-home-office-c7e93bdbca.webp",
+    "source": "ai",
+    "imageId": "ai-261021",
+    "theme": "Home Office",
+    "subtheme": "laptop with blank screen, mouse pad, headphones, blank sticky notes, mug",
+    "style": "clean isometric 3D cartoon",
+    "prompt": "Pastel home office desk with blank laptop, headphones, mug, sticky notes and mouse pad; one subtle PlayJigsaw.net embossed on mouse pad edge.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
