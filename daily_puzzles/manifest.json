@@ -4270,5 +4270,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261109": {
+    "fileName": "2026/11/daily_261109_ai-handmade-craft-6969e8ad29.webp",
+    "source": "ai",
+    "imageId": "ai-261109",
+    "theme": "Handmade Craft",
+    "subtheme": "clay tools and ceramic tray with small craft shelf, painted mugs",
+    "style": "soft claymation 3D render",
+    "prompt": "Pottery table with ceramic tray, clay tools, painted mugs, glaze bowls and craft shelf; one subtle PlayJigsaw.net carved into ceramic tray rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
