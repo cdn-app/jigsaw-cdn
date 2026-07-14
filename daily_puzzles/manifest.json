@@ -4166,5 +4166,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261105": {
+    "fileName": "2026/11/daily_261105_ai-bedroom-bedside-table-10135a4f0e.webp",
+    "source": "ai",
+    "imageId": "ai-261105",
+    "theme": "Bedroom & Sleep",
+    "subtheme": "bedside table with slippers and rug, morning window, folded quilt",
+    "style": "vector storybook illustration",
+    "prompt": "Bedroom corner with bedside table, lamp, coaster, slippers, folded quilts and morning window; one subtle PlayJigsaw.net on coaster edge.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
