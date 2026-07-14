@@ -4140,5 +4140,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261104": {
+    "fileName": "2026/11/daily_261104_ai-living-room-rug-lamp-705706bba8.webp",
+    "source": "ai",
+    "imageId": "ai-261104",
+    "theme": "Living Room",
+    "subtheme": "rug and lamp with sofa cushions, blanket basket, TV-free cozy corner",
+    "style": "soft toy-like 3D render",
+    "prompt": "Cozy living room with sofa cushions, rug, floor lamp, blanket basket and side table; one subtle PlayJigsaw.net engraved on coaster.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
