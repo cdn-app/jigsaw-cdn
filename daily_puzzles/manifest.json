@@ -4218,5 +4218,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261107": {
+    "fileName": "2026/11/daily_261107_ai-desk-paper-goods-d52678a303.webp",
+    "source": "ai",
+    "imageId": "ai-261107",
+    "theme": "Desk & Paper Goods",
+    "subtheme": "envelopes and planner desk with notebooks, pencil cup, craft desk supplies",
+    "style": "papercraft diorama",
+    "prompt": "Colorful desk with blank envelopes, blank planner, notebooks, pencil cup, paper clips and washi tape; one subtle PlayJigsaw.net on tray edge.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
