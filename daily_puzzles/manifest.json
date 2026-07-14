@@ -3750,5 +3750,31 @@
     "imageHash": "7a650e727468dd99db0dc4ada4fe66804a04aae6d0b36ac9684d203518787494",
     "downloadedAt": "2026-07-14T16:11:52Z",
     "publishedAt": "2026-07-14T16:11:52Z"
+  },
+  "261020": {
+    "fileName": "2026/10/daily_261020_ai-tea-small-treats-386aa05521.webp",
+    "source": "ai",
+    "imageId": "ai-261020",
+    "theme": "Tea & Small Treats",
+    "subtheme": "teapot, cups, cookies, fruit plate, folded napkin",
+    "style": "whimsical watercolor",
+    "prompt": "Tea table with teapot, cups, cookies, fruit plate and folded napkin in cool aqua/lemon/raspberry watercolor; one subtle PlayJigsaw.net on saucer rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-14"
   }
 }
