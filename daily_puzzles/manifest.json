@@ -2979,22 +2979,22 @@
     "publishedAt": "2026-07-14T12:11:51.765113Z"
   },
   "260927": {
-    "fileName": "2026/09/daily_260927_ai-painting-art-supplies-4e17c54246.webp",
+    "fileName": "2026/09/daily_260927_ai-painting-art-supplies-42cb9b48a3.webp",
     "source": "ai",
     "imageId": "ai-260927",
     "theme": "Painting & Art Supplies",
     "subtheme": "watercolor palette brushes blank sketchbook water jar",
     "style": "expressive watercolor",
-    "prompt": "2026-09-27 Day 27: Painting & Art Supplies / watercolor palette brushes blank sketchbook water jar; varied palette and style; exactly one subtle in-scene PlayJigsaw.net delegate text.",
+    "prompt": "2026-09-27 Day 27: Painting & Art Supplies / watercolor palette brushes blank sketchbook water jar; corrected delegate text on a small flat label following tabletop perspective, not on folded cloth.",
     "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, signature, logo, brand name, poster text, caption, UI, border, frame, human face close-up, scary, violent, gore",
     "model": "gpt-image-2 built-in imagegen",
     "seed": null,
-    "promptVersion": "daily-plan-v2-sep-themed-varied",
-    "originalUrl": "https://raw.githubusercontent.com/cdn-app/jigsaw-cdn/main/daily_puzzles/2026/09/daily_260927_ai-painting-art-supplies-4e17c54246.webp",
+    "promptVersion": "daily-plan-v2-delegate-perspective-fix",
+    "originalUrl": "https://raw.githubusercontent.com/cdn-app/jigsaw-cdn/main/daily_puzzles/2026/09/daily_260927_ai-painting-art-supplies-42cb9b48a3.webp",
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "qaStatus": "approved",
-    "qaScore": 91,
+    "qaScore": 94,
     "qaChecks": {
       "aspectRatio": "passed",
       "minResolution": "passed",
@@ -3002,15 +3002,16 @@
       "textLogoWatermark": "passed",
       "composition": "passed",
       "themeMatch": "passed",
-      "delegateText": "passed"
+      "delegateText": "passed",
+      "delegatePerspective": "passed"
     },
-    "qaNotes": "Generated from approved daily theme plan; visual QA sheet passed before import.",
+    "qaNotes": "Replaced previous Day27 because PlayJigsaw.net looked like overlay on folded cloth. New version uses a small flat label aligned to tabletop perspective.",
     "width": 1280,
     "height": 960,
-    "fileSize": 309412,
-    "imageHash": "e452e73f9ae0e8fdb8ef516ab953886a61baa462e2894627762313edddea8c39",
-    "downloadedAt": "2026-07-14T12:11:51.765113Z",
-    "publishedAt": "2026-07-14T12:11:51.765113Z"
+    "fileSize": 282916,
+    "imageHash": "de13e24aaa27cd8925ce8620d28946049a90bac18819e380bf2f84bfb4515ebb",
+    "downloadedAt": "2026-07-14T12:31:03.537735Z",
+    "publishedAt": "2026-07-14T12:31:03.537735Z"
   },
   "260928": {
     "fileName": "2026/09/daily_260928_ai-aquarium-small-pets-99c3eda677.webp",
