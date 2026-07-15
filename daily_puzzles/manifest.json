@@ -4920,5 +4920,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261204": {
+    "fileName": "2026/12/daily_261204_ai-living-room-2a202a69b6.webp",
+    "source": "ai",
+    "imageId": "ai-261204",
+    "theme": "Living Room",
+    "subtheme": "blanket basket and TV-free cozy corner",
+    "style": "cozy digital painting",
+    "prompt": "Living room corner with sofa cushions, coffee table, rug, lamp, books with blank covers and blanket basket; one subtle PlayJigsaw.net stitched into folded blanket.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
