@@ -5547,14 +5547,14 @@
     "uploadedAt": "2026-07-15"
   },
   "261228": {
-    "fileName": "2026/12/daily_261228_ai-aquarium-small-pets-ea2ce5aea2.webp",
+    "fileName": "2026/12/daily_261228_ai-aquarium-small-pets-year-end-3da010c231.webp",
     "source": "ai",
     "imageId": "ai-261228",
     "theme": "Aquarium & Small Pets",
-    "subtheme": "aquarium net and pebbles",
+    "subtheme": "aquarium care corner with year-end lights/confetti overlay",
     "style": "luminous vector storybook illustration",
-    "prompt": "Tabletop aquarium with fish tank, aquarium net, blank fish food jar, colorful pebbles, water plants, towel and cleaning brush; one micro PlayJigsaw.net etched on lower side edge of net handle.",
-    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "prompt": "Aquarium care corner with fish tank, aquarium net, blank fish food jar, pebbles, water plants, towel, tiny brush, confetti shapes and warm lights; one micro PlayJigsaw.net etched on net handle.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
     "model": "gpt-image-2 built-in imagegen",
     "qaStatus": "approved",
     "qaScore": 90,
@@ -5564,7 +5564,8 @@
       "delegateText": true,
       "perspective": true,
       "otherText": true,
-      "palette": true
+      "palette": true,
+      "seasonalOverlay": true
     },
     "width": 1280,
     "height": 960,
