@@ -297,6 +297,7 @@ Special override hien tai:
 | Time window | Special series | Direction |
 | --- | --- | --- |
 | Feb 10 - Feb 15 | Valentine's Day special | Duoc bo qua day pool 10-15 de tao mini-series Valentine rieng: gift wrapping table, chocolate/sweets prep, cozy tea/dessert for two without people, handmade blank card craft table, Valentine centerpiece/dessert table, after-Valentine cozy cleanup/gift basket. Khong co chu "Valentine", "Love", slogan, couple/people, brand/logo. |
+| Oct 16 - Oct 31 | Halloween special | Duoc bo qua day pool 16-31 de tao mini-series Halloween household rieng: candy/game table, spooky reading nook, pumpkin baking, toy shelf, cocoa tray, home office, lunch boxes, costume closet, cleaning caddy, coffee corner, bath towels, art desk, aquarium, music corner, pantry, finale party table. Playful/cozy, khong gore/horror, khong chu Halloween/slogan. |
 
 Seasonal overlay de xuat:
 
@@ -314,7 +315,7 @@ Seasonal overlay de xuat:
 | Aug 01 - Aug 20 | Back-to-school / study season | notebooks, desk supplies, lunch boxes, backpacks without text, organized study corner |
 | Sep 01 - Sep 10 | Labor Day / late summer optional | picnic, home projects, tool corner, laundry reset, simple summer colors |
 | Oct 01 - Oct 15 | Cozy autumn | warm drinks, blankets, pantry, baking, orange/teal/purple accents, pumpkins as household decor |
-| Oct 16 - Oct 31 | Halloween | pumpkins, candy bowl, cozy spooky decor, black/orange/purple accents, playful not horror; no gore |
+| Oct 16 - Oct 31 | Halloween | **special override**; see table above |
 | Nov 01 - Nov 10 | Post-Halloween autumn reset | pantry, cleaning, warm drinks, cozy living room, soft autumn palette |
 | Nov 15 - Nov 30 | Thanksgiving / harvest season | kitchen prep, pie/baking, harvest vegetables, family table without people, warm home palette; no readable holiday text |
 | Dec 01 - Dec 15 | Winter cozy | cocoa, blankets, baking, lights, home decor, cool blue/cream with warm accents |
