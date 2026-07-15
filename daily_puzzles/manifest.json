@@ -5466,5 +5466,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261225": {
+    "fileName": "2026/12/daily_261225_ai-coffee-cafe-corner-f238f4bbe8.webp",
+    "source": "ai",
+    "imageId": "ai-261225",
+    "theme": "Coffee & Cafe Corner",
+    "subtheme": "mugs and spoon cup",
+    "style": "cozy digital painting",
+    "prompt": "Home cafe corner with coffee maker, mugs, coasters, beans, milk pitcher, spoon cup, folded napkin and sugar bowl; one micro PlayJigsaw.net as faint maker mark on underside edge of side coaster.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
