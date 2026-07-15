@@ -4530,5 +4530,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261119": {
+    "fileName": "2026/11/daily_261119_ai-kids-room-toys-3cf60c138e.webp",
+    "source": "ai",
+    "imageId": "ai-261119",
+    "theme": "Kids Room & Toys",
+    "subtheme": "toy cars and plain blocks with cubby shelf, plush basket, play mat",
+    "style": "clean isometric 3D cartoon",
+    "prompt": "Kids play corner with cubby shelf, toy cars, plain blocks, plush basket, storage bins and play mat; one subtle PlayJigsaw.net molded into toy car ramp.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
