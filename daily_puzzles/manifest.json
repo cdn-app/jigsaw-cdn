@@ -4582,5 +4582,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261121": {
+    "fileName": "2026/11/daily_261121_ai-home-office-tech-98c160df40.webp",
+    "source": "ai",
+    "imageId": "ai-261121",
+    "theme": "Home Office & Tech",
+    "subtheme": "closed blank laptop, mouse, headphones, blank sticky notes, cable organizer",
+    "style": "soft pastel claymation 3D render",
+    "prompt": "Tidy home office desk with closed blank laptop, mouse, headphones, blank sticky notes, cable organizer and lamp; one very subtle PlayJigsaw.net debossed into mint cable organizer.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
