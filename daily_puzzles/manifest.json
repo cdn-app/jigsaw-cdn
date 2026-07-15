@@ -5520,14 +5520,14 @@
     "uploadedAt": "2026-07-15"
   },
   "261227": {
-    "fileName": "2026/12/daily_261227_ai-art-supplies-ba7a88506f.webp",
+    "fileName": "2026/12/daily_261227_ai-art-supplies-year-end-695f7676e4.webp",
     "source": "ai",
     "imageId": "ai-261227",
     "theme": "Art Supplies",
-    "subtheme": "blank sketchbook and water jar",
-    "style": "bright gouache watercolor illustration",
-    "prompt": "Artist desk with watercolor palette, brushes, blank sketchbook, water jar, paint cloth, blank paint tubes, pencil and ceramic dish; one micro PlayJigsaw.net engraved into side brush handle near lower edge.",
-    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "subtheme": "blank sketchbook and water jar with year-end craft overlay",
+    "style": "festive gouache watercolor illustration",
+    "prompt": "Year-end art desk with watercolor palette, brushes, blank sketchbook, water jar, blank paint tubes, confetti paper shapes, ribbon scraps and snack bowl; one micro PlayJigsaw.net engraved into side brush handle.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
     "model": "gpt-image-2 built-in imagegen",
     "qaStatus": "approved",
     "qaScore": 90,
@@ -5537,7 +5537,8 @@
       "delegateText": true,
       "perspective": true,
       "otherText": true,
-      "palette": true
+      "palette": true,
+      "seasonalOverlay": true
     },
     "width": 1280,
     "height": 960,
