@@ -5024,5 +5024,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261208": {
+    "fileName": "2026/12/daily_261208_ai-sewing-textiles-65ab07a6c5.webp",
+    "source": "ai",
+    "imageId": "ai-261208",
+    "theme": "Sewing & Textiles",
+    "subtheme": "mending kit and buttons",
+    "style": "cozy papercraft diorama",
+    "prompt": "Sewing table with basket, fabric swatches, buttons, embroidery hoop, pin cushion, thread spools and measuring tape without numbers; one subtle PlayJigsaw.net stitched on hoop rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
