@@ -4634,5 +4634,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261123": {
+    "fileName": "2026/11/daily_261123_ai-closet-wardrobe-86957b67a7.webp",
+    "source": "ai",
+    "imageId": "ai-261123",
+    "theme": "Closet & Wardrobe",
+    "subtheme": "folded clothes, hangers, scarf, socks, storage baskets",
+    "style": "cozy watercolor illustration",
+    "prompt": "Tidy wardrobe corner with folded clothes, hangers, scarf, socks and storage baskets; one subtle PlayJigsaw.net embroidered along scarf edge.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
