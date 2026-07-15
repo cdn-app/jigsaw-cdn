@@ -5680,5 +5680,32 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "270128": {
+    "fileName": "2027/01/daily_270128_ai-aquarium-small-pets-ea2ce5aea2.webp",
+    "source": "ai",
+    "imageId": "ai-270128",
+    "theme": "Aquarium & Small Pets",
+    "subtheme": "aquarium net and pebbles",
+    "style": "luminous vector storybook illustration",
+    "prompt": "Moved from 28/12/2026 before year-end overlay update: tabletop aquarium with fish tank, aquarium net, blank fish food jar, pebbles, water plants and cleaning brush; one micro PlayJigsaw.net etched on net handle.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true,
+      "seasonalOverlay": false
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
