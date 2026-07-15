@@ -116,8 +116,8 @@ Diegetic text la chu nam trong the gioi cua anh, vi du bang go, nhan chai, bien 
 - Chu phai bam theo phoi canh va be mat vat the: neu vat the nghieng thi chu/ngan tag phai nghieng theo; neu be mat cong/gap/vai mem thi chu phai hoi meo/chim theo vat lieu. Khong duoc nam ngang tuyet doi nhu overlay neu mat phang ben duoi dang nghieng.
 - Neu khong chac AI render dung phoi canh tren vai/giay bi gap, uu tien dat `PlayJigsaw.net` tren vat phang ro mat phang hon: tag treo rieng, nhan may vuong, canh hop, coaster, canh sach, hoac nhan tren be mat it bien dang.
 - Dat tren vat phu hoac chi tiet phu, uu tien vung ria/canh/nen phu; tranh vung trung tam, tranh vat the chinh, tranh be mat lon doi dien camera.
-- Kich thuoc muc tieu: **micro-detail that su**, khoang 0.35%-0.8% chieu rong anh. Chi lon hon neu bat buoc de khong mat chu, nhung neu full image doc ro ngay thi van reject.
-- Do noi/contrast: **rat thap**, cung chat lieu/tong mau voi vat the; nen giong khac/dap/theu/in mo hon la chu in ro. Zoom/crop moi doc duoc la dung; full image chi nen thay nhu hoa tiet vat lieu, khong phai chu.
+- Kich thuoc muc tieu: **discoverable micro-detail**, khoang 0.55%-0.9% chieu rong anh. Nho hon muc nay de mat hut thi fail; lon/ro nhu label hoac watermark thi cung fail.
+- Do noi/contrast: **thap**, cung chat lieu/tong mau voi vat the; nen giong khac/dap/theu/in mo hon la chu in ro. Khi full view khong duoc hut mat; khi soi/zoom phai tim thay va doc duoc.
 - Tranh dat `PlayJigsaw.net` tren tag/nhan trang sang, plaque noi, sticker, bien nhan rieng, mat giay/trang/notebook, cup wrap, hoac mat phang lon sach. Uu tien canh/rim/lip/canh ben/can do phu o ria anh, bam dung perspective/curvature/vat lieu. Tag/nhan chi chap nhan khi cuc nho, nghieng, low contrast, bi hoa vao vat the va khong phai diem nhin.
 - Reject neu giong overlay, watermark, sticker quang cao, tag/label sang qua noi, chu qua sach/qua dam, nam dung diem nhin dau tien, la text noi bat nhat trong anh, full image doc ro ngay, hoac chu khong xoay/nghieng/meo theo phoi canh va chat lieu cua vat the ben duoi.
 - QA 2 buoc: xem full image truoc; neu mat bi keo vao chu trong 1 giay dau thi reject/regenerate. Sau do moi crop/zoom de check dung chu va dung 1 instance.
@@ -278,7 +278,7 @@ Rule bat buoc khi tao anh:
 - Neu day pool cua ngay do da bi dung qua gan day va tao cam giac hao hao, chon lane xa nhat trong pool truoc khi doi palette/style.
 - Neu can doi theme cua mot ngay, phai sua bang Plan truoc roi moi tao anh.
 
-## Seasonal / holiday overlay
+## Seasonal / holiday overlay va special override
 
 Binh thuong moi ngay tao anh theo bang **Lich 31 ngay lap lai hang thang**. Neu ngay do nam trong mot dip le/mua vu lon, them mot **seasonal overlay** vao chu de de anh hop thoi diem hon.
 
@@ -286,10 +286,17 @@ Nguyen tac:
 
 - Overlay khong thay toan bo rule goc; no chi "nhuom" chu de ngay do bang vat dung, mau sac va khong khi cua dip le.
 - Van giu do vat than thuoc trong nha, khong bien thanh poster/le hoi ngoai duong.
+- Mot so dip ngan, co tinh bieu tuong manh, duoc phep dung **special override** rieng thay vi day pool thuong. Khi do anh van phai household/puzzle-friendly, nhung chu de chinh la dip do.
 - Khong them chu le hoi trong anh. Vi du khong viet "Halloween", "Christmas", "Happy New Year".
 - Van cam logo, brand, nhan vat ban quyen, gore/horror, religious symbols neu khong duoc yeu cau ro.
 - `PlayJigsaw.net` van theo rule micro-detail, khong duoc thanh watermark hoac label noi.
 - Neu seasonal overlay lam anh qua hoa my, qua nhieu cay coi, qua fantasy, thi giam overlay va quay ve household theme.
+
+Special override hien tai:
+
+| Time window | Special series | Direction |
+| --- | --- | --- |
+| Feb 10 - Feb 15 | Valentine's Day special | Duoc bo qua day pool 10-15 de tao mini-series Valentine rieng: gift wrapping table, chocolate/sweets prep, cozy tea/dessert for two without people, handmade blank card craft table, Valentine centerpiece/dessert table, after-Valentine cozy cleanup/gift basket. Khong co chu "Valentine", "Love", slogan, couple/people, brand/logo. |
 
 Seasonal overlay de xuat:
 
@@ -297,7 +304,7 @@ Seasonal overlay de xuat:
 | --- | --- | --- |
 | Jan 01 - Jan 03 | New Year | cozy reset, clean desk, fresh blank notebook/paper, snacks, warm drinks, confetti shapes without text |
 | Jan 20 - Feb 20 | Lunar New Year / Tet-inspired optional | red/gold accents, fruit tray, tea set, envelopes without text, home cleaning/prep; avoid readable calligraphy |
-| Feb 10 - Feb 15 | Valentine's Day | heart shapes/patterns, cozy tea/dessert, pink/red accents, gift ribbon without text |
+| Feb 10 - Feb 15 | Valentine's Day | **special override**; see table above |
 | Mar 10 - Mar 20 | Spring refresh | home cleaning, fresh laundry, light green/yellow palette, seedlings/herbs but still household |
 | Mar 14 - Mar 17 | St. Patrick's Day optional | green accents, clover-like shapes, cozy kitchen/snack scene; no alcohol focus, no text |
 | Late Mar - Apr | Easter / spring holiday optional | pastel eggs as decor/snacks, basket, breakfast table, craft desk; no religious symbols |
@@ -317,13 +324,14 @@ Seasonal overlay de xuat:
 Khi tao prompt:
 
 1. Lay `Day pool` theo ngay trong thang.
-2. Kiem tra ngay/thang co seasonal overlay khong.
-3. Neu co, tron overlay vao subtheme. Vi du:
+2. Kiem tra ngay/thang co seasonal overlay hoac special override khong.
+3. Neu la special override, dung chu de dac biet cua dip do thay cho day pool thuong, nhung van giu style household/puzzle-friendly va QA text/logo/delegate.
+4. Neu chi la overlay, tron overlay vao subtheme. Vi du:
    - Day 18 Baking vao Dec 20 => winter holiday cookies/cocoa baking counter.
    - Day 10 Home Tools vao Jun Father's season => small repair nook/gift-like blank card, khong text.
    - Day 27 Art Supplies vao Oct 25 => Halloween craft table voi pumpkins/candy decor, playful not horror.
-4. Neu overlay va day pool xung dot, giu day pool la xuong song, overlay chi la mau/phu kien.
-5. QA them: seasonal dung dip nhung khong lam mat tinh than household/puzzle-friendly.
+5. Neu overlay va day pool xung dot, giu day pool la xuong song, overlay chi la mau/phu kien.
+6. QA them: seasonal dung dip nhung khong lam mat tinh than household/puzzle-friendly.
 
 ## Palette va style rotation cho tung ngay
 
