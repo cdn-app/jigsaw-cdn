@@ -5601,14 +5601,14 @@
     "uploadedAt": "2026-07-15"
   },
   "261230": {
-    "fileName": "2026/12/daily_261230_ai-pantry-dry-goods-9e25e1bffd.webp",
+    "fileName": "2026/12/daily_261230_ai-pantry-dry-goods-year-end-6425466aae.webp",
     "source": "ai",
     "imageId": "ai-261230",
     "theme": "Pantry & Dry Goods",
-    "subtheme": "pasta and rice jars",
+    "subtheme": "pantry snack-prep with year-end confetti overlay",
     "style": "modern flat-color vector storybook illustration",
-    "prompt": "Bright pantry counter with unlabeled jars, pasta, rice, oats, bowls, measuring cups, folded cloth, scoop and basket; one micro PlayJigsaw.net woven into tiny lower corner of folded cloth.",
-    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "prompt": "Pantry counter with unlabeled jars, pasta, rice, oats, bowls, measuring cups, folded cloth, scoop, basket, confetti and snack-prep vibe; one micro PlayJigsaw.net woven into folded cloth corner.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
     "model": "gpt-image-2 built-in imagegen",
     "qaStatus": "approved",
     "qaScore": 90,
@@ -5618,7 +5618,8 @@
       "delegateText": true,
       "perspective": true,
       "otherText": true,
-      "palette": true
+      "palette": true,
+      "seasonalOverlay": true
     },
     "width": 1280,
     "height": 960,
