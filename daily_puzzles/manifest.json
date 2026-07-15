@@ -5180,5 +5180,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261214": {
+    "fileName": "2026/12/daily_261214_ai-balcony-small-garden-25f7780793.webp",
+    "source": "ai",
+    "imageId": "ai-261214",
+    "theme": "Balcony & Small Garden",
+    "subtheme": "herb pots and balcony mat",
+    "style": "sunny gouache illustration",
+    "prompt": "Small balcony with herb pots, watering can, balcony mat, gloves, trowel, blank seed packets and plant shelf; one micro PlayJigsaw.net on tiny side tag near lower edge.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
