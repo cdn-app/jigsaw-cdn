@@ -5440,5 +5440,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261224": {
+    "fileName": "2026/12/daily_261224_ai-cleaning-home-care-0c85ab8d10.webp",
+    "source": "ai",
+    "imageId": "ai-261224",
+    "theme": "Cleaning & Home Care",
+    "subtheme": "sponge and gloves",
+    "style": "modern flat-color vector illustration",
+    "prompt": "Cleaning counter with caddy, blank spray bottles, sponge, gloves, microfiber cloth, scrub brush, bucket and folded towel; one micro PlayJigsaw.net molded into lower side edge of secondary scrub brush.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
