@@ -4478,5 +4478,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261117": {
+    "fileName": "2026/11/daily_261117_ai-books-reading-2f48f3a924.webp",
+    "source": "ai",
+    "imageId": "ai-261117",
+    "theme": "Books & Reading",
+    "subtheme": "reading glasses and bookmark with reading nook, blank books, magazines without text",
+    "style": "cozy watercolor illustration",
+    "prompt": "Reading nook table with blank books, reading glasses, bookmark, mug, candle and folded blanket; one subtle PlayJigsaw.net printed on fabric bookmark.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
