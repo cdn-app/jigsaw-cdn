@@ -5128,5 +5128,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261212": {
+    "fileName": "2026/12/daily_261212_ai-food-storage-a3f266ae4f.webp",
+    "source": "ai",
+    "imageId": "ai-261212",
+    "theme": "Food Storage",
+    "subtheme": "open fridge and pantry containers",
+    "style": "flat-color vector storybook illustration",
+    "prompt": "Open fridge and counter with clear containers, meal prep boxes, jars with blank labels, grocery basket and vegetables; one micro PlayJigsaw.net molded into lower edge of side storage bin.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
