@@ -4972,5 +4972,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261206": {
+    "fileName": "2026/12/daily_261206_ai-laundry-clothes-care-421334333a.webp",
+    "source": "ai",
+    "imageId": "ai-261206",
+    "theme": "Laundry & Clothes Care",
+    "subtheme": "drying rack and ironing corner",
+    "style": "modern flat-color vector illustration",
+    "prompt": "Laundry corner with drying rack, folded towels, basket, iron, ironing board, clothespins and blank detergent; one subtle PlayJigsaw.net molded on basket rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
