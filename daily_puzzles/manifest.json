@@ -5653,5 +5653,32 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "270127": {
+    "fileName": "2027/01/daily_270127_ai-art-supplies-ba7a88506f.webp",
+    "source": "ai",
+    "imageId": "ai-270127",
+    "theme": "Art Supplies",
+    "subtheme": "blank sketchbook and water jar",
+    "style": "bright gouache watercolor illustration",
+    "prompt": "Moved from 27/12/2026 before year-end overlay update: artist desk with watercolor palette, brushes, blank sketchbook, water jar, paint cloth and blank paint tubes; one micro PlayJigsaw.net engraved into side brush handle.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true,
+      "seasonalOverlay": false
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
