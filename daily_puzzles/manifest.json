@@ -5414,5 +5414,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261223": {
+    "fileName": "2026/12/daily_261223_ai-closet-wardrobe-a55ea63f28.webp",
+    "source": "ai",
+    "imageId": "ai-261223",
+    "theme": "Closet & Wardrobe",
+    "subtheme": "socks and storage baskets",
+    "style": "cozy watercolor illustration",
+    "prompt": "Tidy closet corner with folded clothes, hangers, scarf, socks, fabric storage baskets, mirror and shoe cubby; one micro PlayJigsaw.net stitched into lower side seam of fabric basket near edge.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
