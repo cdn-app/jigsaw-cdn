@@ -5761,5 +5761,32 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "270131": {
+    "fileName": "2027/01/daily_270131_ai-everyday-mixed-special-b5af9087b5.webp",
+    "source": "ai",
+    "imageId": "ai-270131",
+    "theme": "Everyday Mixed Special",
+    "subtheme": "weekend hobby mix and celebration snacks",
+    "style": "festive homey gouache illustration",
+    "prompt": "Moved from 31/12/2026 before year-end overlay update: household weekend table with snack tray, blank notebook, puzzle pieces, craft tools, mug, fruit bowl and bunting without letters; one micro PlayJigsaw.net stamped into side coaster.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true,
+      "seasonalOverlay": false
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
