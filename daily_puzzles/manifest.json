@@ -4894,5 +4894,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261203": {
+    "fileName": "2026/12/daily_261203_ai-morning-food-c3ad509ee3.webp",
+    "source": "ai",
+    "imageId": "ai-261203",
+    "theme": "Morning Food",
+    "subtheme": "pancake plate with juice and fruit",
+    "style": "soft claymation 3D render",
+    "prompt": "Breakfast table with pancakes, syrup pitcher, orange juice, fruit, cereal bowl and blank mug; one subtle PlayJigsaw.net stamped on plate rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
