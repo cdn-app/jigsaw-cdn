@@ -4374,5 +4374,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261113": {
+    "fileName": "2026/11/daily_261113_ai-pet-corner-c9b35c4b59.webp",
+    "source": "ai",
+    "imageId": "ai-261113",
+    "theme": "Pet Corner",
+    "subtheme": "pet toys and grooming corner with food bowls, small pet bed, brush",
+    "style": "soft toy-like 3D render",
+    "prompt": "Cozy pet corner with plush pet bed, food bowls, toy balls, grooming brush, towel and toy storage bin; one subtle PlayJigsaw.net debossed on teal bin.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
