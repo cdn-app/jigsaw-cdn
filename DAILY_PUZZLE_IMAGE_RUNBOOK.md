@@ -9,7 +9,7 @@ Muc tieu: moi ngay co **1 anh AI** dep, dung chu de, dung 4:3, lam puzzle tot, v
 
 ## Nguyen tac bat buoc
 
-1. Truoc khi tao bat ky anh nao, tra bang `Day` trong `DAILY_PUZZLE_AI_PLAN.md`. `Day pool` cua day-of-month la bat buoc; khong tu freestyle sang day pool khac.
+1. Truoc khi tao bat ky anh nao, tra bang `Day` trong `DAILY_PUZZLE_AI_PLAN.md`. `Day pool` cua day-of-month la bat buoc, **tru khi ngay do nam trong special override da ghi ro trong Plan**; khong tu freestyle sang day pool khac.
 2. Trong day pool, phai chon `Theme lane` va subtheme theo seed thang/nam de tranh lap. Khong coi moi ngay la 1 chu de hep duy nhat.
 3. Tao 1 anh/1 ngay. Khong tao nhieu anh neu anh dau da dat QA; chi reroll khi co loi ro rang.
 4. Moi anh phai doi palette, anh sang va style mot cach hop ly so voi cac ngay gan nhat. Khong de nau/go chiem anh tru khi chu de bat buoc can go.
@@ -33,8 +33,9 @@ Tra `Day` trong bang chu de cua Plan, lay dung `Day pool`, roi chon 1 `Theme lan
 
 Qua thang moi, uu tien doi lane truoc khi doi rieng style. Vi du Day 01 co the xoay giua kitchen prep, cookware corner, small appliances, sink and clean counter, colorful utensils.
 
-Sau khi lay dung `Day pool`, kiem tra them section **Seasonal / holiday overlay** trong Plan:
+Sau khi lay dung `Day pool`, kiem tra them section **Seasonal / holiday overlay va special override** trong Plan:
 
+- Neu ngay nam trong special override, dung chu de dac biet cua dip do thay cho day pool thuong, nhung van giu household/puzzle-friendly va QA text/logo/delegate.
 - Neu ngay nam trong dip le/mua vu lon, tron overlay vao day pool cua ngay do.
 - Day pool van la xuong song; overlay chi them mau sac, props va atmosphere.
 - Khong them chu le hoi vao anh, vi du khong viet "Halloween", "Christmas", "Happy New Year".
@@ -82,8 +83,8 @@ No la chi tiet trong the gioi cua anh, khong phai watermark. Chon cach dat theo 
 Bat buoc:
 
 - Chu phai theo perspective va bieu dang cua be mat. Vat nghiêng thi chu nghiêng; be mat cong/gap/vai mem thi chu cong/meo tu nhien theo no.
-- Kich thuoc **micro-detail that su** (muc tieu khoang 0.35%-0.8% chieu rong), low contrast, o vung phu/ria/canh, khong dat tren vat the chinh neu lam no thanh focal point.
-- Full image phai gan nhu khong bi hut vao chu; neu nhin full view ma doc ro ngay `PlayJigsaw.net` thi reject, ke ca khi chu dung chinh ta. Zoom/crop moi doc duoc la dung.
+- Kich thuoc **discoverable micro-detail** (muc tieu khoang 0.55%-0.9% chieu rong), low contrast, o vung phu/ria/canh, khong dat tren vat the chinh neu lam no thanh focal point.
+- Full image khong duoc bi hut vao chu, nhung khi soi/zoom phai tim thay va doc duoc `PlayJigsaw.net`. Neu full view doc ro nhu label/watermark thi reject; neu zoom van khong thay hoac khong doc duoc thi cung reject.
 - Tranh bien `PlayJigsaw.net` thanh label/sticker/tag/plaque rieng. Uu tien no nam tren canh/rim/lip/canh ben/can do phu, bam vat lieu va perspective; neu la tag/nhan thi phai rat nho, nghieng, bi hoa vao vat the va khong nam tren mat phang sang sach.
 - Khong dung tag/nhan/plaque sang mau lam fallback mac dinh. Chi dung tag/nhan khi no rat nho, mau tiep, nghieng dung perspective va that su hop voi canh.
 - Neu AI kho lam dung tren vai/giay gap, chon be mat on dinh hon nhu canh hop, canh sach, coaster, vat gom/kim loai phang.
