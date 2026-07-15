@@ -4348,5 +4348,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261112": {
+    "fileName": "2026/11/daily_261112_ai-food-storage-79678cc4c1.webp",
+    "source": "ai",
+    "imageId": "ai-261112",
+    "theme": "Food Storage",
+    "subtheme": "meal prep boxes and grocery sorting with pantry containers, jars with blank labels",
+    "style": "papercraft diorama",
+    "prompt": "Kitchen counter with colorful meal prep boxes, clear containers, grocery vegetables and blank-label jars; one subtle PlayJigsaw.net on mint meal prep lid.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
