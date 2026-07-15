@@ -5734,5 +5734,32 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "270130": {
+    "fileName": "2027/01/daily_270130_ai-pantry-dry-goods-9e25e1bffd.webp",
+    "source": "ai",
+    "imageId": "ai-270130",
+    "theme": "Pantry & Dry Goods",
+    "subtheme": "pasta and rice jars",
+    "style": "modern flat-color vector storybook illustration",
+    "prompt": "Moved from 30/12/2026 before year-end overlay update: bright pantry counter with unlabeled jars, pasta, rice, oats, bowls, measuring cups and folded cloth; one micro PlayJigsaw.net woven into folded cloth corner.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true,
+      "seasonalOverlay": false
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
