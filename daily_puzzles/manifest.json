@@ -4322,5 +4322,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-14"
+  },
+  "261111": {
+    "fileName": "2026/11/daily_261111_ai-bathroom-self-care-e72dfc9db2.webp",
+    "source": "ai",
+    "imageId": "ai-261111",
+    "theme": "Bathroom & Self Care",
+    "subtheme": "sink counter with soap dish, toothbrush cup, towel shelf, bath basket",
+    "style": "clean isometric 3D cartoon",
+    "prompt": "Bathroom counter with soap dish, toothbrush cup, folded towels and bath basket; one subtle PlayJigsaw.net engraved on aqua soap dish rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
