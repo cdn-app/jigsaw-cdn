@@ -4738,5 +4738,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261127": {
+    "fileName": "2026/11/daily_261127_ai-art-supplies-9bfe59b54c.webp",
+    "source": "ai",
+    "imageId": "ai-261127",
+    "theme": "Art Supplies",
+    "subtheme": "watercolor palette, brushes, blank sketchbook, water jar, paint cloth",
+    "style": "gouache watercolor illustration",
+    "prompt": "Artist desk with watercolor palette, brushes, blank sketchbook, water jar, paint cloth and blank paint tubes; one subtle PlayJigsaw.net engraved into paintbrush handle.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
