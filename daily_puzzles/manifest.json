@@ -4556,5 +4556,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261120": {
+    "fileName": "2026/11/daily_261120_ai-drinks-small-treats-52890ba6b2.webp",
+    "source": "ai",
+    "imageId": "ai-261120",
+    "theme": "Drinks & Small Treats",
+    "subtheme": "cocoa or warm drink tray with cookies, fruit plate, folded napkin",
+    "style": "vector storybook illustration",
+    "prompt": "Warm drink tray with cocoa mugs, cookies, fruit plate, folded napkin and spoon cup; one subtle PlayJigsaw.net printed along teal saucer rim.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
