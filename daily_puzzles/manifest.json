@@ -5628,14 +5628,14 @@
     "uploadedAt": "2026-07-15"
   },
   "261231": {
-    "fileName": "2026/12/daily_261231_ai-everyday-mixed-special-b5af9087b5.webp",
+    "fileName": "2026/12/daily_261231_ai-everyday-mixed-special-year-end-435b91923c.webp",
     "source": "ai",
     "imageId": "ai-261231",
     "theme": "Everyday Mixed Special",
-    "subtheme": "weekend hobby mix and celebration snacks",
+    "subtheme": "year-end household celebration snacks and hobby mix",
     "style": "festive homey gouache illustration",
-    "prompt": "Household weekend table with snack tray, blank notebook, puzzle pieces, craft tools, mug, fruit bowl, folded cloth, plant and bunting with no letters; one micro PlayJigsaw.net stamped into side coaster near edge.",
-    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "prompt": "Festive year-end household table with snacks, fruit, warm drink, blank notebook, puzzle pieces, craft tools, folded cloth, confetti and ribbon curls; one micro PlayJigsaw.net stamped into side coaster.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag, holiday words, countdown numbers",
     "model": "gpt-image-2 built-in imagegen",
     "qaStatus": "approved",
     "qaScore": 90,
@@ -5645,7 +5645,8 @@
       "delegateText": true,
       "perspective": true,
       "otherText": true,
-      "palette": true
+      "palette": true,
+      "seasonalOverlay": true
     },
     "width": 1280,
     "height": 960,
