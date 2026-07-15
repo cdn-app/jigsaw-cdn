@@ -5154,5 +5154,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261213": {
+    "fileName": "2026/12/daily_261213_ai-pet-corner-e8e3f05ea3.webp",
+    "source": "ai",
+    "imageId": "ai-261213",
+    "theme": "Pet Corner",
+    "subtheme": "dog basket and pet toys",
+    "style": "soft toy-like 3D render",
+    "prompt": "Cozy pet corner with dog basket, food bowls, toys, grooming brush, folded towel and storage bin; one micro PlayJigsaw.net debossed on lower side of toy bin.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text, large delegate text, bright tag",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
