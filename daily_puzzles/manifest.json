@@ -4608,5 +4608,31 @@
     "authorName": "AI Generated",
     "authorProfile": "https://playjigsaw.net",
     "uploadedAt": "2026-07-15"
+  },
+  "261122": {
+    "fileName": "2026/11/daily_261122_ai-lunch-picnic-1cee7ec925.webp",
+    "source": "ai",
+    "imageId": "ai-261122",
+    "theme": "Lunch & Picnic",
+    "subtheme": "sandwiches, lunch boxes, water bottle, carrot sticks, cloth napkin",
+    "style": "bright papercraft diorama",
+    "prompt": "Picnic lunch with sandwiches, lunch boxes, water bottle, carrot sticks, fruit and folded napkin; one subtle PlayJigsaw.net woven into napkin.",
+    "negativePrompt": "other readable text, misspelled PlayJigsaw.net, duplicate PlayJigsaw.net, overlay watermark, promotional text, logo, brand, UI, border, frame, dominant brown, excessive empty space, prominent delegate text",
+    "model": "gpt-image-2 built-in imagegen",
+    "qaStatus": "approved",
+    "qaScore": 90,
+    "qaChecks": {
+      "theme": true,
+      "composition": true,
+      "delegateText": true,
+      "perspective": true,
+      "otherText": true,
+      "palette": true
+    },
+    "width": 1280,
+    "height": 960,
+    "authorName": "AI Generated",
+    "authorProfile": "https://playjigsaw.net",
+    "uploadedAt": "2026-07-15"
   }
 }
